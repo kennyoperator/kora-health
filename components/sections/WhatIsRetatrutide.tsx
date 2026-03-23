@@ -72,20 +72,20 @@ export default function WhatIsRetatrutide() {
               `}</style>
               
               {/* Connecting lines */}
-              <line x1="86" y1="40" x2="124" y2="40" stroke="#1B3A5C" strokeWidth="1" opacity="0.3" />
-              <line x1="156" y1="40" x2="194" y2="40" stroke="#1B3A5C" strokeWidth="1" opacity="0.3" />
+              <line x1="86" y1="28" x2="124" y2="28" stroke="#1B3A5C" strokeWidth="1" opacity="0.3" />
+              <line x1="156" y1="28" x2="194" y2="28" stroke="#1B3A5C" strokeWidth="1" opacity="0.3" />
               
               {/* Circle 1: GLP-1 */}
               <circle
                 cx="70"
-                cy="40"
+                cy="28"
                 r="16"
                 stroke="#1B3A5C"
                 strokeWidth="1.5"
                 fill="transparent"
                 style={{
                   animation: 'fillPulse1 5s ease-in-out infinite, syncPulse 5s ease-in-out infinite, fadeOut 5s ease-in-out infinite',
-                  transformOrigin: '70px 40px'
+                  transformOrigin: '70px 28px'
                 }}
               />
               <text
@@ -102,14 +102,14 @@ export default function WhatIsRetatrutide() {
               {/* Circle 2: GIP */}
               <circle
                 cx="140"
-                cy="40"
+                cy="28"
                 r="16"
                 stroke="#1B3A5C"
                 strokeWidth="1.5"
                 fill="transparent"
                 style={{
                   animation: 'fillPulse2 5s ease-in-out infinite, syncPulse 5s ease-in-out infinite, fadeOut 5s ease-in-out infinite',
-                  transformOrigin: '140px 40px'
+                  transformOrigin: '140px 28px'
                 }}
               />
               <text
@@ -126,14 +126,14 @@ export default function WhatIsRetatrutide() {
               {/* Circle 3: Glucagon */}
               <circle
                 cx="210"
-                cy="40"
+                cy="28"
                 r="16"
                 stroke="#1B3A5C"
                 strokeWidth="1.5"
                 fill="transparent"
                 style={{
                   animation: 'fillPulse3 5s ease-in-out infinite, syncPulse 5s ease-in-out infinite, fadeOut 5s ease-in-out infinite',
-                  transformOrigin: '210px 40px'
+                  transformOrigin: '210px 28px'
                 }}
               />
               <text
