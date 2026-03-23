@@ -88,11 +88,47 @@ export default function ExpectationTimeline() {
                 >
                   {stage.description}
                 </p>
+                {stage.period === 'Weeks 1–2' && (
+                  <div className="mt-3">
+                    <Image
+                      src="/img-timeline-appetite.png"
+                      alt="Woman experiencing reduced appetite during retatrutide treatment"
+                      width={140}
+                      height={140}
+                      className="rounded-xl mx-auto"
+                      style={{ boxShadow: '0 4px 12px rgba(0,0,0,0.06)' }}
+                    />
+                  </div>
+                )}
+                {stage.period === 'Weeks 3–4' && (
+                  <div className="mt-3">
+                    <Image
+                      src="/img-timeline-scale.png"
+                      alt="Person stepping on a scale tracking early weight loss"
+                      width={140}
+                      height={140}
+                      className="rounded-xl mx-auto"
+                      style={{ boxShadow: '0 4px 12px rgba(0,0,0,0.06)' }}
+                    />
+                  </div>
+                )}
                 {stage.period === 'Months 2–3' && (
-                  <div className="mt-4">
+                  <div className="mt-3">
                     <Image
                       src="/img-progress.png"
                       alt="Patient measuring weight loss progress"
+                      width={140}
+                      height={140}
+                      className="rounded-xl mx-auto"
+                      style={{ boxShadow: '0 4px 12px rgba(0,0,0,0.06)' }}
+                    />
+                  </div>
+                )}
+                {stage.period === 'Months 4–6+' && (
+                  <div className="mt-3">
+                    <Image
+                      src="/img-timeline-sustained.png"
+                      alt="Woman walking confidently after sustained weight loss results"
                       width={140}
                       height={140}
                       className="rounded-xl mx-auto"
@@ -144,18 +180,6 @@ export default function ExpectationTimeline() {
                   >
                     {stage.description}
                   </p>
-                  {stage.period === 'Months 2–3' && (
-                    <div className="mt-3">
-                      <Image
-                        src="/img-progress.png"
-                        alt="Patient measuring weight loss progress"
-                        width={120}
-                        height={120}
-                        className="rounded-xl"
-                        style={{ boxShadow: '0 4px 12px rgba(0,0,0,0.06)' }}
-                      />
-                    </div>
-                  )}
                 </div>
               </div>
             ))}
