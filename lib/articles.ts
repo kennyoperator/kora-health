@@ -15,6 +15,490 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: 'is-retatrutide-available-in-the-philippines',
+    title: 'Is Retatrutide Available in the Philippines? How Access Actually Works in 2026',
+    seoTitle: 'Is Retatrutide Available in the Philippines? (2026 Guide)',
+    metaDescription: 'Yes — retatrutide is accessible in the Philippines through physician-led compounding programs. Here\'s how it works, what\'s legitimate, and what to avoid.',
+    category: 'Access & Availability',
+    readingTime: '6 min read',
+    publishedDate: '2026-03-27',
+    reviewedBy: 'Dr. [Physician Name]',
+    reviewedByTitle: 'Medical Director, Kora Health · PRC License #[000000]',
+    excerpt: 'Retatrutide is accessible in the Philippines — but only through specific channels. Here\'s what\'s legitimate, what\'s not, and how to navigate it.',
+    relatedSlugs: ['be-careful-where-to-buy-retatrutide-philippines', 'avoid-cheap-retatrutide-philippines', 'first-dose-retatrutide-philippines'],
+    content: `Short answer: yes. Longer answer: the way you access it matters more than whether you can.
+
+Retatrutide is accessible in the Philippines through physician-led compounding programs. Not from a pharmacy shelf. Not from a branded Eli Lilly box. And not from someone's Viber broadcast list. The channel you choose determines whether you get a verified compound or something that spent a week in a warehouse in Pasig with no temperature control.
+
+## It's Not Branded-Approved — Here's What That Means
+
+Eli Lilly's retatrutide is in Phase 3 clinical trials. No branded version is FDA-approved anywhere in the world yet — not in the US, not in the Philippines. Anyone claiming to sell "official Lilly retatrutide" is either confused or dishonest.
+
+What exists is compounded retatrutide: prepared by licensed Philippine compounding pharmacies using pharmaceutical-grade raw material, prescribed by a physician, delivered through regulated channels. This is the same compounding model that made semaglutide and tirzepatide accessible in the Philippines before their branded versions became widely available. It is legal and regulated.
+
+## The Legitimate Access Path
+
+A physician evaluates your medical history, BMI, and health conditions. If appropriate, they prescribe compounded retatrutide at the right starting dose. The prescription goes to an FDA-regulated compounding pharmacy. The pharmacy compounds, tests, and ships the medication in cold-chain packaging.
+
+Every link in that chain has a licensed human attached to it. Remove any link — the doctor, the regulated pharmacy, the testing, the cold chain — and you are no longer in the legitimate access lane. You are in the "hope for the best" lane.
+
+For a detailed checklist on evaluating any provider, see [how to tell if a retatrutide seller is legitimate](/learn/be-careful-where-to-buy-retatrutide-philippines).
+
+## The Facebook-Viber-Telegram Market
+
+It is enormous. Some of those sellers may have real product. Most operate without physician oversight, without verified sourcing, without cold chain, and without any follow-up if something goes wrong. The vial might be fine. It might be degraded. It might be something else entirely. Without a Certificate of Analysis from a regulated lab, you are guessing.
+
+The demand for GLP-1 medications in the Philippines has exploded. That demand created an unregulated supply chain optimized for speed and margin — not for your pancreas.
+
+See [why suspiciously cheap retatrutide should concern you](/learn/avoid-cheap-retatrutide-philippines).
+
+## Outside Metro Manila? Telehealth Fixes That
+
+The consultation is online — video call or phone. Medication ships cold-chain to any Philippine address. You do not need to live in Makati or BGC. Patients in Cebu, Davao, Iloilo, Cagayan de Oro, and provincial areas access the same physician-led program as someone in Bonifacio Global City.
+
+Kora Health serves patients nationwide. The consultation is free, the pricing is in pesos, and we accept GCash, Maya, bank transfer, and credit card.
+
+---
+
+### Find Out If You're a Candidate
+
+A Kora Health physician will evaluate your health profile and give you a direct answer — not a sales pitch. If retatrutide isn't right for you, they'll tell you that too.
+
+**[Book Your Free Consultation →](#qualify)**
+
+---
+
+## The Real Question Underneath This One
+
+Most people searching "is retatrutide available in the Philippines" are not just asking about availability. They are asking: is this real? Is it safe? Can I trust it? Will I get scammed?
+
+The answer depends entirely on where you get it. Physician-led access through a regulated pharmacy? Real, safe, trustworthy. A vial from an anonymous seller with no medical oversight? A coin flip.
+
+For what happens once you actually start treatment, see [your first dose of retatrutide](/learn/first-dose-retatrutide-philippines) and [when results typically begin](/learn/retatrutide-when-do-you-see-results).`
+  },
+  {
+    slug: 'retatrutide-when-do-you-see-results',
+    title: 'Retatrutide Results: When Do You Actually Start Seeing Weight Loss?',
+    seoTitle: 'Retatrutide Results Timeline: When Do You Actually See Weight Loss?',
+    metaDescription: 'Appetite shifts in week 1. Scale movement by week 3-4. Visible changes by month 2-3. Here\'s the honest retatrutide results timeline — and what can speed it up or slow it down.',
+    category: 'Treatment Guides',
+    readingTime: '7 min read',
+    publishedDate: '2026-03-27',
+    reviewedBy: 'Dr. [Physician Name]',
+    reviewedByTitle: 'Medical Director, Kora Health · PRC License #[000000]',
+    excerpt: 'Appetite shifts in week 1. Scale movement by week 3-4. Visible changes by month 2-3. The honest retatrutide results timeline.',
+    relatedSlugs: ['first-dose-retatrutide-philippines', 'best-apps-track-retatrutide-progress-philippines', 'is-retatrutide-available-in-the-philippines'],
+    content: `The appetite changes come first — usually within the first week. The scale starts moving around weeks 3-4. The moment other people start noticing is typically around month 2-3.
+
+That is the short version. The longer version involves understanding why the timeline varies, what the clinical data actually shows, and what to do when week 3 arrives and you are convinced nothing is happening.
+
+## Week 1-2: Your Relationship With Food Changes Before Your Weight Does
+
+The first thing that shifts is not your body — it is your brain's fixation on food. People call it "food noise," that low-frequency hum of planning the next meal, craving something sweet after lunch, opening the fridge out of habit rather than hunger.
+
+On retatrutide, that hum goes quiet. Most people notice it within 7-14 days. You finish half your usual serving of rice and realize you are genuinely full. You walk past Jollibee without the usual pull. Merienda just... doesn't happen.
+
+This is the medication working. But it rarely shows on the scale this early. If you step on the scale at day 10 and see the same number, do not panic. Track the behavioral changes instead — they are the leading indicator.
+
+For practical tracking tools, see [5 apps to monitor your retatrutide progress](/learn/best-apps-track-retatrutide-progress-philippines).
+
+## Week 3-4: The Scale Starts Cooperating
+
+By week three, most people see 1-3kg of movement. The amount depends on your starting weight, your dose (still low at this point — 2mg escalating to 4mg), and how dramatically your eating has shifted.
+
+The dose escalation matters here. You are not at the therapeutic dose yet. You are at the starting dose. The clinical effect compounds as the dose increases every four weeks. What you see at week 3 is a fraction of what is coming.
+
+## Month 2-3: Other People Start Asking Questions
+
+This is the inflection point. Clothes that were tight now fit comfortably. Your face looks different in the mirror and in photos. You have more energy because you are literally carrying less weight when you walk up stairs or chase your kid around SM.
+
+In the Phase 2 trial, participants on the highest dose had already lost roughly 17% of body weight by 24 weeks. Most of that trajectory is building momentum by months 2-3.
+
+## Month 4-6+: The Numbers Keep Going
+
+The TRIUMPH-4 trial showed 28.7% average weight loss at 68 weeks. Weight loss did not plateau at month 3 or 4 — it continued. The rate slows as the body approaches a new equilibrium, but the trajectory stays downward for the full duration of treatment.
+
+People who discontinue early freeze their results at whatever point they stopped. People who stay the course continue progressing. This is where physician oversight — regular check-ins, dose optimization, motivational accountability — separates good outcomes from great ones.
+
+---
+
+### Curious What Your Personal Timeline Looks Like?
+
+A Kora Health physician can evaluate your starting point — BMI, health conditions, medications — and map out a realistic treatment trajectory. Not a guess. A clinical estimate based on your actual profile.
+
+**[Book Your Free Consultation →](#qualify)**
+
+---
+
+## The Week 2-3 Panic (Almost Everyone Goes Through This)
+
+You feel different. Appetite is down. You know the medication is active. But the scale has barely budged. The temptation is to conclude it is not working.
+
+It is working. Your body is adjusting to reduced caloric intake before the external measurements shift. Internal metabolic changes precede visible ones. This is consistent across all GLP-1 medications, not unique to retatrutide.
+
+If the scale genuinely has not moved by week 5, raise it with your physician. Before that, patience is the protocol.
+
+## What Speeds Things Up (and What Doesn't)
+
+**Helps:** Eating nutrient-dense food when you do eat. Adding moderate physical activity — even daily walking. Staying hydrated. Sleeping enough. Consistent weekly dosing without skips.
+
+**Doesn't help as much as people think:** Crash-dieting on top of retatrutide. Extreme exercise that your body can't sustain. Obsessive daily weigh-ins that amplify normal fluctuations into emotional spirals.
+
+The drug handles appetite. You handle the quality of what you eat and how you move. That combination is what the clinical trial participants had — medication plus lifestyle counseling — and it is what produced the headline numbers.
+
+For what the first injection actually feels like, see [your first dose of retatrutide](/learn/first-dose-retatrutide-philippines). For provider evaluation, see [whether premium programs are worth the cost](/learn/expensive-retatrutide-brands-philippines).`
+  },
+  {
+    slug: 'best-apps-track-retatrutide-progress-philippines',
+    title: '5 Apps to Track Your Retatrutide Progress in the Philippines',
+    seoTitle: 'Best Apps to Track Retatrutide Progress in the Philippines (2026)',
+    metaDescription: '5 practical apps for tracking weight, measurements, dose timing, and side effects while on retatrutide — all free or low-cost, all available in the Philippines.',
+    category: 'Practical Guides',
+    readingTime: '6 min read',
+    publishedDate: '2026-03-27',
+    reviewedBy: 'Dr. [Physician Name]',
+    reviewedByTitle: 'Medical Director, Kora Health · PRC License #[000000]',
+    excerpt: '5 practical apps for tracking weight trends, measurements, dose timing, and side effects on retatrutide — available in the Philippines.',
+    relatedSlugs: ['retatrutide-when-do-you-see-results', 'first-dose-retatrutide-philippines', 'is-retatrutide-available-in-the-philippines'],
+    content: `First injection done. Now you need to know if this thing is actually working — and "step on the scale every morning and panic" is not a tracking strategy.
+
+Good tracking on retatrutide means monitoring weight trends (not daily numbers), body measurements, dose timing, side effects, and how you feel. Here are five apps that handle this well, all available on Philippine app stores.
+
+## 1. Happy Scale (iOS) / Libra (Android) — Weight Trend, Not Daily Noise
+
+Your weight fluctuates 0.5-1.5kg daily based on water, sodium, what you ate last night, and whether you have been to the bathroom. That noise drowns the signal, especially in weeks 2-4 when actual fat loss is starting but the daily number keeps bouncing.
+
+Happy Scale and Libra smooth your daily weigh-ins into a moving average trend line. After two weeks of daily data, you can see the actual trajectory underneath the noise. This is the single most useful tool for avoiding the "week 3 panic" where people think retatrutide is not working because yesterday's number was higher than Monday's.
+
+**Cost:** Free.
+
+## 2. MyFitnessPal — Filipino Food Database Included
+
+Retatrutide suppresses appetite. You will eat less. But what you eat still matters — someone eating 1,200 calories of nutrient-dense food will outperform someone eating 1,200 calories of chips and Coke.
+
+MyFitnessPal's food database includes Filipino staples: rice (per cup), adobo, sinigang na baboy, lechon kawali, pandesal, instant noodles, tapsilog. It is not perfectly accurate, but 2-3 weeks of logging gives you a clear picture of where your nutrition actually stands now that portions have shrunk.
+
+You do not need to track forever. Just long enough to understand your new eating pattern.
+
+**Cost:** Free with ads.
+
+## 3. Medisafe — Dose Reminders and Side Effect Logging
+
+"Did I already inject this week or was that last week?" This question comes up more often than you would expect with a once-weekly injection.
+
+Medisafe sends a reminder on your chosen injection day, lets you log each dose, and tracks your escalation schedule (2mg → 4mg → 6mg → 9mg → 12mg). It also logs side effects — nausea severity, GI changes, energy levels — which gives your physician concrete data at check-ins instead of "I think I felt nauseous a few times, maybe?"
+
+**Cost:** Free.
+
+## 4. A Tape Measure and Your Notes App — Seriously
+
+The fanciest tracking tool for body measurements is a ₱50 tape measure from Daiso and your phone's notes app.
+
+Measure your waist at the navel once a week. Same time, same day, standing relaxed. Write it down. That single number over 8-12 weeks tells a clearer story than the scale in many cases — especially for people whose body composition is shifting (losing fat, retaining or building muscle) in ways that the scale cannot distinguish.
+
+If you want something more automated, Hume uses your phone camera to estimate body measurements from photos. Approximate but useful for trend tracking.
+
+## 5. Google Sheets — The "I Don't Want Another App" Option
+
+Open a spreadsheet. Make columns: Date, Weight, Waist, Dose, Side Effects, Energy (1-5), Appetite (1-5). Fill in one row per week. Share it with your physician at each check-in.
+
+Five columns. One row per week. That is a complete treatment journal. If you hate apps, this is your answer.
+
+---
+
+### Tracking Works Best With Physician Support
+
+Kora Health includes regular check-ins as part of every retatrutide program. Bring your tracking data — weight trend, measurements, side effect log — and your physician can make sharper decisions about dosing and timeline.
+
+**[Book Your Free Consultation →](#qualify)**
+
+---
+
+## What to Track When
+
+**Daily:** Weight (morning, before eating — for trend apps only, not for emotional interpretation).
+
+**Weekly:** Waist measurement. Dose log with date and time. Side effect notes. Energy and appetite rating.
+
+**Monthly:** Progress photo — same lighting, same angle, same clothes. Blood pressure if you have a home monitor.
+
+**Every physician check-in:** Everything above. This is what turns a standard check-in into a data-driven treatment adjustment.
+
+For when to expect different types of results, see [the retatrutide results timeline](/learn/retatrutide-when-do-you-see-results). For what the first days feel like, see [your first 72 hours on retatrutide](/learn/first-dose-retatrutide-philippines).`
+  },
+  {
+    slug: 'first-dose-retatrutide-philippines',
+    title: 'Your First Dose of Retatrutide: What Actually Happens in the First 72 Hours',
+    seoTitle: 'First Dose of Retatrutide: What to Expect in the First 24-72 Hours',
+    metaDescription: 'The injection takes 2 seconds. Appetite shifts by day 2-3. Here\'s what actually happens after your first retatrutide dose — the good, the mild, and the nothing.',
+    category: 'Treatment Guides',
+    readingTime: '6 min read',
+    publishedDate: '2026-03-27',
+    reviewedBy: 'Dr. [Physician Name]',
+    reviewedByTitle: 'Medical Director, Kora Health · PRC License #[000000]',
+    excerpt: 'The injection takes 2 seconds. Appetite shifts by day 2-3. Here\'s what actually happens — the good, the mild, and the nothing.',
+    relatedSlugs: ['retatrutide-when-do-you-see-results', 'best-apps-track-retatrutide-progress-philippines', 'is-retatrutide-available-in-the-philippines'],
+    content: `You have the vial. You have the syringe. Your physician gave the green light. And now you are staring at it on your kitchen counter wondering what the next 72 hours will feel like.
+
+Honestly? For most people, the first dose is anticlimactic — in the best way.
+
+## The Injection: 2 Seconds, Then It's Done
+
+Subcutaneous injection. Small needle into the fat layer under the skin — abdomen, thigh, or upper arm. Not into muscle. Not into a vein. You pinch a fold of skin, insert at a 45-degree angle, push the plunger, pull out.
+
+It feels like a quick pinch. Some people say they barely felt it. Others feel a brief sting. The injection site might be slightly red or have a tiny bump for an hour. Then it fades.
+
+If you have never injected yourself before, the anticipation is significantly worse than the act. Kora Health provides a video walkthrough, and your care team can guide you live through your first one.
+
+## Hours 1-12: Mostly Nothing
+
+This is the part nobody tells you about: the first half-day is usually uneventful. The 2mg starting dose is deliberately conservative. It is the body-adjustment dose, not the therapeutic dose.
+
+Some people report a subtle reduction in hunger by evening. Most notice nothing out of the ordinary. Both responses are normal.
+
+What should NOT happen at 2mg: severe nausea, vomiting, dizziness, or sharp abdominal pain. If any of these occur, contact your physician. They are uncommon at the starting dose.
+
+## Day 2-3: The Quiet Shift
+
+This is when it starts. Not dramatically — more like someone turned down the volume on food.
+
+The constant background awareness of "what should I eat next" softens. You eat lunch and the thought of an afternoon snack just... does not arrive. Your usual dinner portion feels sufficient at two-thirds. The second helping of rice does not get scooped.
+
+Some people describe it as the difference between actively wanting food and simply being indifferent to it. Not nauseated. Not repulsed. Just not pulled toward it.
+
+At 2mg, this effect is mild. It intensifies as the dose escalates in subsequent weeks. Think of the first dose as a preview, not the main event.
+
+## The Side Effects You Might (and Might Not) Feel
+
+At the starting dose, the most common experience is no side effects at all.
+
+If anything appears, it is usually mild nausea on day 1-2 — the kind that makes you not want to eat a heavy meal, not the kind that sends you to the bathroom. Eating smaller, lighter meals and avoiding oily food helps. It typically passes within a day.
+
+Some people notice slight constipation or a change in bowel habits. Transient. Some feel mildly fatigued — the body adjusting to lower caloric intake. Normal and temporary.
+
+The dysesthesia signal (skin tingling) from clinical trials? That was observed at 12mg. At 2mg, the odds are negligible.
+
+---
+
+### Starting Soon? Your Physician Should Be in the Room
+
+Not literally — but available. Kora Health's onboarding includes guided first-dose support. Your care team is reachable by message or call if anything feels off. That is what physician-led treatment means in practice, not just on a website.
+
+**[Book Your Free Consultation →](#qualify)**
+
+---
+
+## After the Injection: What to Do (and Not Do)
+
+**Do:** Eat normally. Stay hydrated. Note how you feel in the evening and the next morning. Log the dose in your tracker.
+
+**Don't:** Crash diet. Start an intense new exercise program. Weigh yourself every three hours. Panic if you feel completely normal.
+
+Your next injection is in 7 days, same day. Rotate the site — left abdomen this week, right abdomen or thigh next week.
+
+For what the coming weeks and months look like, see [the retatrutide results timeline](/learn/retatrutide-when-do-you-see-results). For tracking tools, see [5 apps to track your progress](/learn/best-apps-track-retatrutide-progress-philippines). For how to access retatrutide in the first place, see [is retatrutide available in the Philippines](/learn/is-retatrutide-available-in-the-philippines).`
+  },
+  {
+    slug: 'avoid-cheap-retatrutide-philippines',
+    title: 'Why Super Cheap Retatrutide in the Philippines Should Worry You',
+    seoTitle: 'Why Super Cheap Retatrutide in the Philippines Is a Red Flag',
+    metaDescription: 'Cheap retatrutide means something was removed. Usually the doctor, the testing, or the cold chain. Here\'s what the low price actually costs you.',
+    category: 'Safety & Trust',
+    readingTime: '6 min read',
+    publishedDate: '2026-03-27',
+    reviewedBy: 'Dr. [Physician Name]',
+    reviewedByTitle: 'Medical Director, Kora Health · PRC License #[000000]',
+    excerpt: 'Cheap retatrutide means something was removed from the process. Usually the doctor, the testing, or the cold chain. Here\'s what the low price actually costs you.',
+    relatedSlugs: ['be-careful-where-to-buy-retatrutide-philippines', 'expensive-retatrutide-brands-philippines', 'is-retatrutide-available-in-the-philippines'],
+    content: `Someone on Facebook is selling retatrutide for half the price of a physician-led program. The vial looks right. The label has the right words. And you are thinking: same compound, better deal, right?
+
+Maybe. Or maybe the reason it is cheap is because everything that keeps you safe was removed to hit that price point.
+
+## Where the Money Actually Goes in a Legitimate Program
+
+This is not a mystery. The cost of physician-led retatrutide breaks down into components that are either present or absent:
+
+Pharmaceutical-grade raw material from a documented, regulated supplier. Sterile compounding in an FDA-regulated Philippine pharmacy. Third-party lab testing — a Certificate of Analysis confirming what is in the vial and what is not. Cold-chain shipping with insulated packaging and gel ice packs. A physician who evaluates you before prescribing and monitors you after. Ongoing follow-up care and dose escalation management.
+
+Each one costs real money. When the price drops dramatically, at least one — usually several — of these was cut.
+
+## What the Cheap Seller Probably Cut
+
+The typical budget seller sources the cheapest peptide available (often internationally, with no CoA), packages it, and sells direct. No physician gate. No pharmacy transparency. No testing verification. No temperature-controlled shipping. No follow-up.
+
+You get a vial. You inject it. What happens next depends on whether you got lucky.
+
+What could be inside: the correct compound at the labeled concentration (best case). A degraded compound that lost potency sitting in a non-climate-controlled warehouse or delivery van (common in Philippine heat). An underdosed compound — same label, less active ingredient, more margin for the seller. Something else entirely (worst case — rare but documented in unregulated peptide markets).
+
+See [the full checklist for evaluating any retatrutide seller](/learn/be-careful-where-to-buy-retatrutide-philippines).
+
+## The Real Downside Isn't Wasted Pesos
+
+Money gone is the mildest outcome. The worse scenarios:
+
+You inject a degraded product for 8 weeks, see no results, and conclude retatrutide does not work — when the compound was the problem, not the treatment. You inject a contaminated product and develop an abscess, infection, or systemic reaction with no physician to call. You escalate your dose without medical oversight, hit the side effect wall at 9mg, and have no one managing the transition. The seller blocks you on Viber. There is no PRC license to report, no SEC registration to trace, no clinic to walk into.
+
+---
+
+### The Cost of Getting It Right Is Knowable
+
+Kora Health publishes what the program includes. Physician evaluation. FDA-regulated compounding. Third-party testing. Cold-chain delivery. Ongoing support. The pricing is in Philippine pesos with no hidden fees. You know exactly what you are paying for.
+
+**[Book Your Free Consultation →](#qualify)**
+
+---
+
+## The Question to Ask Any Seller
+
+Six questions. If they cannot or will not answer, that tells you everything:
+
+Which pharmacy compounds this? Is it FDA-regulated? Is a Certificate of Analysis available? Is there a physician evaluation before I receive anything? How is it shipped? What happens if I have a side effect at 3am?
+
+Most cheap sellers fail at question one.
+
+For the full evaluation framework, see [where to buy retatrutide safely](/learn/be-careful-where-to-buy-retatrutide-philippines). For how legitimate access works, see [is retatrutide available in the Philippines](/learn/is-retatrutide-available-in-the-philippines). For whether paying more is actually worth it, see [are premium retatrutide programs worth the cost](/learn/expensive-retatrutide-brands-philippines).`
+  },
+  {
+    slug: 'expensive-retatrutide-brands-philippines',
+    title: 'Is the More Expensive Retatrutide in the Philippines Actually Worth It?',
+    seoTitle: 'Is \'Expensive\' Retatrutide in the Philippines Actually Worth It?',
+    metaDescription: 'The price gap between cheap retatrutide and premium programs is not margin — it\'s infrastructure. Here\'s what you\'re actually paying for and how to decide.',
+    category: 'Safety & Trust',
+    readingTime: '6 min read',
+    publishedDate: '2026-03-27',
+    reviewedBy: 'Dr. [Physician Name]',
+    reviewedByTitle: 'Medical Director, Kora Health · PRC License #[000000]',
+    excerpt: 'The price gap is not margin — it\'s infrastructure. Here\'s what you\'re actually paying for when you choose a premium retatrutide program.',
+    relatedSlugs: ['avoid-cheap-retatrutide-philippines', 'be-careful-where-to-buy-retatrutide-philippines', 'is-retatrutide-available-in-the-philippines'],
+    content: `On Viber, someone has retatrutide for ₱3,000. A physician-led program charges significantly more. And the question banging around your head is: am I paying for better medicine, or am I paying for someone's marketing budget?
+
+Neither. You are paying for the infrastructure that sits between you and a vial — and that infrastructure is what determines whether the next six months go well or badly.
+
+## What You Get at the Higher Price
+
+Not a better molecule. If both the cheap seller and the premium program source pharmaceutical-grade retatrutide compounded correctly, the compound itself might be chemically identical. The difference is everything that wraps around it.
+
+**The physician who says "no" when they should.** A doctor who reviews your medical history, checks for thyroid cancer history, pancreatitis risk, pregnancy, drug interactions — and tells you retatrutide is not appropriate if it is not. This single step prevents adverse events that no amount of Googling can substitute for.
+
+**Verified compounding.** An FDA-regulated Philippine pharmacy with sterile facilities, documented procedures, and batch records. Not a relabeled vial of unknown provenance.
+
+**Proof of what's inside.** A Certificate of Analysis from an independent lab confirming the compound identity, concentration, sterility, and purity. This is how you move from "I hope this is real" to "I know this is real."
+
+**Temperature integrity.** Insulated shipping with gel ice packs and a delivery window calibrated to Philippine weather. Not a vial in a bubble mailer on a motorcycle in Quezon City at 2pm in May.
+
+**Someone to call when something feels wrong.** Dose escalation from 2mg to 12mg over several months produces side effects — nausea, GI changes, the possible skin sensitivity signal. A physician managing your schedule can slow escalation, adjust timing, or pull back a dose when needed. An anonymous seller cannot.
+
+**Accountability that exists beyond a chat thread.** A registered business. A named physician with a PRC license number. A real entity that continues to exist after the transaction.
+
+## The Cheap Alternative, Honestly
+
+Some people buy the cheap vial and it works. That outcome exists. But it is an outcome without verification — you assumed it was real, assumed it was potent, assumed it was sterile, and happened to be right. Next month's vial from the same seller might come from a different batch, a different source, with different handling. The consistency guarantee does not exist because the quality infrastructure does not exist.
+
+See [why cheap retatrutide should concern you](/learn/avoid-cheap-retatrutide-philippines).
+
+---
+
+### Transparent Pricing, No Guesswork
+
+Kora Health's consultation is free. If you proceed, the program pricing is in Philippine pesos — inclusive of physician oversight, compounding, testing, cold-chain delivery, and ongoing support. No hidden fees. No surprise charges at month two.
+
+**[Book Your Free Consultation →](#qualify)**
+
+---
+
+## How to Think About the Price
+
+Stop comparing vial-to-vial. Compare the full treatment experience: physician evaluation, pharmacy regulation, product testing, delivery integrity, ongoing medical support, and accountability.
+
+Six components. If the provider delivers all six, the price reflects real infrastructure. If they deliver two, the savings came from cutting the other four.
+
+You are injecting this compound into your body once a week for months. The relevant question is not "can I find it cheaper?" It is "can I find it safer?"
+
+For the full evaluation checklist, see [how to evaluate any retatrutide provider](/learn/be-careful-where-to-buy-retatrutide-philippines). For how access works, see [is retatrutide available in the Philippines](/learn/is-retatrutide-available-in-the-philippines).`
+  },
+  {
+    slug: 'be-careful-where-to-buy-retatrutide-philippines',
+    title: 'Be Careful Where You Buy Retatrutide in the Philippines: A Practical Checklist',
+    seoTitle: 'Be Careful Where You Buy Retatrutide in the Philippines (2026 Guide)',
+    metaDescription: 'A 6-point checklist for evaluating any retatrutide provider in the Philippines — what legitimate sellers have, what scams don\'t, and how to tell the difference fast.',
+    category: 'Safety & Trust',
+    readingTime: '7 min read',
+    publishedDate: '2026-03-27',
+    reviewedBy: 'Dr. [Physician Name]',
+    reviewedByTitle: 'Medical Director, Kora Health · PRC License #[000000]',
+    excerpt: 'A 6-point checklist for evaluating any retatrutide provider in the Philippines — what legitimate sellers have, what scams don\'t.',
+    relatedSlugs: ['avoid-cheap-retatrutide-philippines', 'expensive-retatrutide-brands-philippines', 'is-retatrutide-available-in-the-philippines'],
+    content: `You want retatrutide. You have done the research. Now you need to pick a source — and this is where the Philippine GLP-1 market gets messy.
+
+The demand is massive. The supply is a mix of legitimate physician-led platforms, regulated pharmacies, and a large ecosystem of unverified sellers on social media who may or may not have real product. Telling them apart is not always obvious at first glance.
+
+Here is a practical framework.
+
+## The 6-Point Evaluation
+
+Run every provider — telehealth platform, clinic, pharmacy, Facebook seller, Viber contact — through these six questions. If even one answer is missing or evasive, keep looking.
+
+**1. Is a physician evaluating you before anything ships?**
+
+A doctor reviews your medical history, screens for contraindications (medullary thyroid carcinoma, MEN 2, pancreatitis, pregnancy), and determines whether retatrutide is appropriate for your profile. If the provider lets you place an order without any medical interaction, they are a product seller, not a healthcare provider.
+
+**2. Which pharmacy compounds the medication? By name.**
+
+"A licensed pharmacy" is not an answer. The specific pharmacy name, and confirmation that it is FDA-regulated, is the minimum. Legitimate providers are transparent about this because they want you to verify it.
+
+**3. Is third-party testing documented?**
+
+A Certificate of Analysis from an independent lab confirms compound identity, concentration, sterility, and purity. This is not a luxury feature — it is how you know the vial contains what the label says. Ask for it. If it does not exist, you are trusting a label.
+
+**4. How does the medication get to your door?**
+
+Retatrutide degrades in heat. Philippine temperatures routinely hit 33-37°C. A vial that spent 6 hours in a non-insulated delivery bag on a motorcycle may arrive looking fine but have lost significant potency. Cold-chain logistics — insulated box, ice packs, expedited delivery — are not premium extras. They are baseline requirements.
+
+**5. What happens after you inject?**
+
+Dose escalation over 16+ weeks. Side effect management. Progress evaluation. Dose adjustments. If the provider's relationship with you ends at delivery, you are managing a complex medical treatment alone.
+
+**6. Can you find a real human behind this?**
+
+A business registration number. A physician's name and PRC license. A phone number or email that gets answered. If something goes wrong at 11pm, does a human respond — or does the chat go blue?
+
+---
+
+### Kora Health Passes All Six
+
+Physician evaluation before any treatment. Named doctor with displayed PRC license. FDA-regulated Philippine compounding pharmacy. Third-party testing with Certificate of Analysis. Cold-chain delivery nationwide. Ongoing physician support and dose management. Start with a free consultation.
+
+**[Book Your Free Consultation →](#qualify)**
+
+---
+
+## The Red Flags (Any One Is Enough to Walk Away)
+
+No physician involvement. Just payment → shipment.
+
+"DM for prices." Legitimate medical programs publish what they include. Secret pricing is not discretion — it is a warning.
+
+Pharmacy sourcing they will not disclose.
+
+Delivery in a padded envelope or uninsulated bag.
+
+Urgency tactics: "limited stock," "price going up tomorrow," "last 5 vials." Medical providers do not manufacture scarcity.
+
+No follow-up contact after the sale closes.
+
+## A Note on Price
+
+Expensive does not automatically mean safe. Some premium-priced sellers still cut corners on testing, cold chain, or physician oversight. The 6-point checklist applies at every price point. Cost is one data point, not a proxy for quality.
+
+For the price discussion specifically, see [are expensive retatrutide programs worth it](/learn/expensive-retatrutide-brands-philippines) and [why cheap retatrutide is risky](/learn/avoid-cheap-retatrutide-philippines).
+
+## The Simplest Heuristic
+
+If you cannot answer two questions — "who is my doctor?" and "which pharmacy made this?" — you are not in a medical treatment program. You are in a transaction. For something you inject weekly for months, you want the program.
+
+For how legitimate access works end-to-end, see [is retatrutide available in the Philippines](/learn/is-retatrutide-available-in-the-philippines). For what happens once you start, see [your first dose of retatrutide](/learn/first-dose-retatrutide-philippines).`
+  },
+  {
     slug: 'retatrutide-weight-loss-results',
     title: 'How Much Weight Can You Lose on Retatrutide? Trial-by-Trial Breakdown',
     seoTitle: 'How Much Weight Can You Lose on Retatrutide? Trial-by-Trial Breakdown',
