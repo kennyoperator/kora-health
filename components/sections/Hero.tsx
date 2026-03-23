@@ -54,6 +54,18 @@ export default function Hero() {
             The most advanced GLP-1 treatment available — activating three metabolic pathways for greater appetite control, energy expenditure, and weight loss. Free physician consultation. Personalized prescribing. Ongoing medical support.
           </p>
 
+          {/* Value statement */}
+          <div
+            className="hero-fade flex items-center justify-center gap-3 mt-6"
+            style={{ animationDelay: '250ms' }}
+          >
+            <span className="font-sans font-medium text-sm tracking-wide" style={{ color: 'var(--kora-brand)' }}>Quick.</span>
+            <span style={{ color: 'var(--kora-border)', fontSize: '18px', lineHeight: 1 }}>·</span>
+            <span className="font-sans font-medium text-sm tracking-wide" style={{ color: 'var(--kora-brand)' }}>Easy.</span>
+            <span style={{ color: 'var(--kora-border)', fontSize: '18px', lineHeight: 1 }}>·</span>
+            <span className="font-sans font-medium text-sm tracking-wide" style={{ color: 'var(--kora-brand)' }}>Discreet.</span>
+          </div>
+
           {/* Primary CTA */}
           <div className="hero-fade mt-8" style={{ animationDelay: '300ms' }}>
             <CTAButton
