@@ -52,6 +52,7 @@ export default function Footer() {
                 { label: 'Our Team', href: '#team' },
                 { label: 'Program', href: '#program' },
                 { label: 'FAQs', href: '#faq' },
+                { label: 'Journal', href: '/learn' },
                 { label: 'Contact Us', href: 'mailto:hello@korahealth.ph' },
                 { label: 'Privacy Policy', href: '/privacy' },
                 { label: 'Terms of Service', href: '/terms' },
