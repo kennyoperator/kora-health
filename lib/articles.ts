@@ -15,6 +15,374 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    slug: 'retatrutide-weight-loss-results',
+    title: 'How Much Weight Can You Lose on Retatrutide? Trial-by-Trial Breakdown',
+    seoTitle: 'How Much Weight Can You Lose on Retatrutide? Trial-by-Trial Breakdown',
+    metaDescription: 'Retatrutide weight loss numbers broken down by dose and trial — 24.2% in Phase 2, 28.7% in Phase 3, and what affects whether you fall above or below average.',
+    category: 'Treatment Guides',
+    readingTime: '8 min read',
+    publishedDate: '2026-03-26',
+    reviewedBy: 'Dr. [Physician Name]',
+    reviewedByTitle: 'Medical Director, Kora Health · PRC License #[000000]',
+    excerpt: 'Retatrutide weight loss numbers broken down by dose and trial — what the data shows, what affects individual results, and realistic expectations.',
+    relatedSlugs: ['retatrutide-what-to-expect-week-by-week', 'retatrutide-eligibility-bmi-screening', 'retatrutide-vs-ozempic'],
+    content: `24.2% in Phase 2. 28.7% in Phase 3. Those numbers are everywhere — in news articles, Reddit threads, and health forums across the Philippines. They are real. They come from published clinical trials. But on their own, they tell you very little about what you personally might experience.
+
+This article gives you the full picture: the specific numbers by dose, the differences between trials, what factors push individual results above or below the average, and what the data means for someone evaluating their weight management options today.
+
+## Phase 2 Results by Dose (NEJM, 2023)
+
+The Phase 2 trial enrolled 338 adults with obesity (BMI ≥30, or ≥27 with a weight-related condition) without type 2 diabetes. Participants were randomized to different doses for 48 weeks. The results show a steep dose-response curve.
+
+At 1mg weekly: 8.7% average body weight lost. At 4mg: 17.1%. At 8mg: 22.8%. At 12mg — the highest dose tested: 24.2%.
+
+For someone starting at 100kg, the 12mg result means approximately 24kg lost over 48 weeks. That is roughly half a kilogram per week, sustained for nearly a year. The jump from 4mg to 12mg — approximately 7 percentage points — underscores why dose optimization under physician guidance matters. A subtherapeutic dose produces subtherapeutic results.
+
+## Phase 3 Results: TRIUMPH-4 (December 2025)
+
+TRIUMPH-4 studied a different and heavier population — 445 adults with obesity AND knee osteoarthritis, average baseline weight 112.7kg (BMI 40.4) — over 68 weeks.
+
+At 9mg: 26.4% average weight loss (approximately 29.1kg / 64.2 lbs). At 12mg: 28.7% (approximately 32.3kg / 71.2 lbs).
+
+The proportion reaching specific thresholds at 12mg: 85.9% lost at least 10% body weight. 74.5% lost at least 15%. 58.6% lost at least 25%. Nearly 6 in 10 participants lost more than a quarter of their body weight.
+
+These are the highest weight loss numbers ever recorded in a Phase 3 trial for any GLP-1 class medication.
+
+For a week-by-week picture of how these results accumulated, see [what to expect during retatrutide treatment](/learn/retatrutide-what-to-expect-week-by-week).
+
+## How Retatrutide Stacks Up
+
+Putting the numbers in context against approved treatments:
+
+Semaglutide (Wegovy) produced approximately 14.9% average weight loss at 68 weeks in STEP-1. Tirzepatide (Zepbound) produced 20.2% at 72 weeks in the SURMOUNT-5 head-to-head trial. Retatrutide's 28.7% in TRIUMPH-4 is approximately 8 points above tirzepatide and 14 points above semaglutide.
+
+These are cross-trial comparisons — different populations, timepoints, and designs — but the magnitude of difference is consistent across every data point.
+
+For the semaglutide-specific comparison, see [how retatrutide compares to Ozempic](/learn/retatrutide-vs-ozempic). For the tirzepatide comparison, see [retatrutide vs tirzepatide](/learn/retatrutide-vs-tirzepatide).
+
+## What Makes Individual Results Vary
+
+Trial averages are population statistics. Where you fall within the distribution depends on several factors.
+
+**Starting BMI matters.** TRIUMPH-4 participants averaged BMI 40.4 — substantially higher than many prospective patients. Higher baseline weight tends to produce larger absolute losses. Someone with BMI 32 will likely see a different percentage than someone at BMI 45, even on the same dose.
+
+**Dose matters — a lot.** Phase 2 showed a 15.5-percentage-point spread between 1mg (8.7%) and 12mg (24.2%). The dose your physician selects, and how well you tolerate escalation, directly shapes your outcome.
+
+**Duration matters.** Weight loss with GLP-1 drugs is progressive over months. The 48-week and 68-week timepoints reflect sustained treatment. Stopping early means stopping the progression.
+
+**Lifestyle is part of the equation.** All trials included diet and physical activity counseling. Participants who actively engaged outperformed those who relied on medication alone. The drug reduces appetite and improves metabolism — but what you eat and how you move still influence the magnitude.
+
+**Individual biology creates variation.** Even within the same dose group, some participants lost 35% while others lost 12%. Genetic, hormonal, and metabolic differences produce real variance.
+
+To assess whether your health profile makes you a likely responder, see [who is a realistic candidate for retatrutide](/learn/retatrutide-eligibility-bmi-screening).
+
+## What "Average" Hides
+
+The 28.7% average in TRIUMPH-4 means roughly half the participants lost more and half lost less. The distribution matters for setting expectations.
+
+At the 12mg dose, 85.9% achieved at least 10% weight loss — meaning the overwhelming majority hit clinically meaningful territory. But 14.1% did not reach that threshold. Approximately 1 in 7 had a more modest response.
+
+A physician does not just prescribe the medication. They manage the dose, monitor the response, and adjust the plan based on what is actually happening — which is how you maximize your probability of falling on the favorable side of the distribution.
+
+## The Availability Reality
+
+These results come from a drug still in Phase 3 trials. Retatrutide is not approved. Not available. Not prescribable.
+
+The treatment with the strongest available evidence today is tirzepatide — 20.2% average weight loss in a direct head-to-head trial, FDA-approved, Philippine FDA-approved, accessible through licensed physicians right now.
+
+For how the dosing protocol works in practice, see [retatrutide dose escalation explained](/learn/retatrutide-dose-escalation-schedule).`
+  },
+  {
+    slug: 'retatrutide-what-to-expect-week-by-week',
+    title: 'Retatrutide Week by Week: What to Expect From Dose Escalation to Results',
+    seoTitle: 'Retatrutide Week by Week: What to Expect From Dose Escalation to Results',
+    metaDescription: 'Week-by-week timeline of retatrutide treatment from clinical trials — when appetite changes, when weight loss starts, when side effects peak, and when they fade.',
+    category: 'Treatment Guides',
+    readingTime: '7 min read',
+    publishedDate: '2026-03-26',
+    reviewedBy: 'Dr. [Physician Name]',
+    reviewedByTitle: 'Medical Director, Kora Health · PRC License #[000000]',
+    excerpt: 'Week-by-week breakdown of what happens on retatrutide — appetite changes, dose escalation, weight loss progression, and side effect timing from clinical trials.',
+    relatedSlugs: ['retatrutide-weight-loss-results', 'retatrutide-dose-escalation-schedule', 'retatrutide-eligibility-bmi-screening'],
+    content: `You understand retatrutide's mechanism and you have seen the endpoint numbers. What you want to know now is more practical: what does it actually feel like, week by week? When does appetite change? When does weight loss start showing? When do side effects hit — and when do they ease up?
+
+The clinical trials provide a clear picture of the treatment arc. Here is the typical progression based on the Phase 2 and TRIUMPH Phase 3 data — with the caveat that individual experiences will vary.
+
+## Weeks 1–4: Starting Dose (2mg)
+
+Every retatrutide trial protocol started at 2mg once weekly. This is not the therapeutic dose — it is the floor. The purpose is to let the body adjust before escalating.
+
+What participants typically reported during this phase: appetite begins to shift — not dramatically, but noticeably. The mental preoccupation with food (sometimes called "food noise") starts to quiet. Portions naturally shrink because satiety arrives sooner. Gastrointestinal effects at this dose are mild for most — occasional nausea, slight digestive changes. Weight loss is modest. Primarily driven by eating less without trying to eat less.
+
+This phase sets the physiological foundation. The real changes come during escalation.
+
+For a detailed breakdown of the dosing protocol, see [retatrutide dose escalation explained](/learn/retatrutide-dose-escalation-schedule).
+
+## Weeks 5–12: Dose Escalation (4mg → 6mg → 9mg)
+
+The dose increases every 4 weeks in a stepwise fashion. Each increase amplifies the metabolic effect — and each is where GI side effects are most likely to appear.
+
+What participants typically reported: weight loss accelerates noticeably with each dose step. Appetite suppression deepens — many describe feeling satisfied with half their previous portions. Nausea peaks during this window. In TRIUMPH-4, the 43% nausea rate was concentrated in these escalation weeks. Diarrhea, constipation, and changes in bowel patterns are most common here. Energy may fluctuate — eating significantly less while the body adjusts can cause temporary fatigue.
+
+This is where physician oversight provides the most value. A doctor monitoring your response can hold you at a lower dose for an extra 2–4 weeks if side effects are uncomfortable. That flexibility — spending 6 weeks at 4mg instead of 4 — often makes the difference between tolerating the escalation and discontinuing.
+
+To understand whether your health profile is suited for this treatment approach, see [who is a realistic candidate for retatrutide](/learn/retatrutide-eligibility-bmi-screening).
+
+## Weeks 13–24: Therapeutic Dose Established
+
+By approximately week 13–16, most participants had reached their target dose (9mg or 12mg). The full metabolic effect is now in place.
+
+What participants typically reported: steady, measurable weight loss — roughly 1–2% of body weight per month. GI side effects stabilize and often improve substantially. Appetite regulation becomes the new normal rather than a noticeable drug effect. Blood work markers — fasting glucose, cholesterol, blood pressure — begin shifting in measurable ways. Physical changes become visible. Clothes fit differently. Movement feels easier.
+
+In the Phase 2 trial, participants on 12mg had already lost approximately 17% of body weight by 24 weeks — exceeding what most approved medications achieve at their full endpoints.
+
+## Weeks 24–48+: Continued Progression
+
+Weight loss continued past 24 weeks in every trial. The trajectory slows gradually as the body approaches a new equilibrium — but it does not stop.
+
+Phase 2 showed ongoing progression from 17% at 24 weeks to 24.2% at 48 weeks. TRIUMPH-4 showed 28.7% at 68 weeks. The treatment transitions from rapid loss to deceleration to plateau — a pattern consistent across all GLP-1 class medications.
+
+This phase is about consolidation: locking in metabolic improvements, establishing sustainable eating patterns, and working with a physician on long-term maintenance planning.
+
+For the full breakdown of weight loss at each timepoint, see [how much weight you can lose on retatrutide](/learn/retatrutide-weight-loss-results).
+
+## The Side Effect Arc
+
+Side effects follow a predictable curve.
+
+**Weeks 1–4 (low dose):** Mild. Most tolerate this without difficulty.
+
+**Weeks 5–12 (escalation):** This is the peak window. Nausea, digestive changes, and appetite adjustment are strongest here. The dysesthesia signal from TRIUMPH-4 (skin tingling/sensitivity in ~21% of participants at the highest dose) also appeared during this period. Importantly, most side effects in this window are manageable — and they serve as data points for your physician to calibrate your escalation speed.
+
+**Weeks 13+ (maintenance):** Side effects diminish. The body adjusts. Most participants who made it through escalation continued treatment without significant tolerability issues.
+
+The takeaway: weeks 5–12 are the hardest. They are also temporary. And they are dramatically easier to navigate with a physician managing your dose schedule than without one.
+
+## What This Means for Treatment Available Today
+
+Retatrutide is not available. Tirzepatide follows a comparable treatment arc — same once-weekly injection, same gradual escalation, same side effect pattern, same progressive weight loss curve. Patients who start tirzepatide now experience a journey that directly parallels what retatrutide treatment would look like.
+
+For the Ozempic comparison, see [how retatrutide compares to semaglutide](/learn/retatrutide-vs-ozempic).`
+  },
+  {
+    slug: 'retatrutide-eligibility-bmi-screening',
+    title: 'Are You Eligible for Retatrutide? BMI Requirements, Screening & Who Qualifies',
+    seoTitle: 'Are You Eligible for Retatrutide? BMI Requirements, Screening & Who Qualifies',
+    metaDescription: 'Retatrutide eligibility criteria from clinical trials — BMI thresholds, medical screening, contraindications, and how to find out if GLP-1 treatment is right for you.',
+    category: 'Weight Management',
+    readingTime: '7 min read',
+    publishedDate: '2026-03-26',
+    reviewedBy: 'Dr. [Physician Name]',
+    reviewedByTitle: 'Medical Director, Kora Health · PRC License #[000000]',
+    excerpt: 'BMI requirements, medical screening criteria, contraindications — who is and is not a fit for retatrutide, and how to find out through a physician.',
+    relatedSlugs: ['retatrutide-weight-loss-results', 'retatrutide-dose-escalation-schedule', 'retatrutide-what-to-expect-week-by-week'],
+    content: `You have read the results. You are interested. Now the question that determines whether any of it matters: do you qualify?
+
+The clinical trials used specific eligibility criteria — and any future prescribing guidelines will follow similar thresholds. Understanding them now helps you evaluate whether GLP-1 treatment is worth pursuing with a physician, whether the medication in question is retatrutide in the future or tirzepatide today.
+
+## The BMI Threshold
+
+Based on TRIUMPH trial inclusion criteria and the prescribing labels of approved GLP-1 medications (tirzepatide, semaglutide), the expected eligibility profile is:
+
+Adults with a **BMI of 30 or higher** (obesity). OR adults with a **BMI of 27 or higher** with at least one weight-related health condition — type 2 diabetes, hypertension, dyslipidemia, cardiovascular disease, or obstructive sleep apnea.
+
+In the Philippines, where approximately 38.6% of adults aged 20–59 are classified as overweight or obese, the eligible population is large. But BMI alone does not determine candidacy. It is the starting threshold, not the complete picture.
+
+## What a Physician Actually Evaluates
+
+A proper medical screening goes well beyond BMI.
+
+**Medical history review.** Chronic conditions, current medications, previous weight loss treatments (including what has and has not worked), surgical history, and family medical history — particularly thyroid cancer and MEN 2 syndrome.
+
+**Contraindication screening.** The conditions listed below that rule out GLP-1 treatment entirely.
+
+**Lab work (when clinically indicated).** Fasting glucose or HbA1c, thyroid function panel, liver function, kidney function, lipid panel. Not every patient requires full labs — your physician determines what is needed based on your history.
+
+**Psychological readiness and goal alignment.** Are your expectations realistic? Are you prepared for weekly injections and regular follow-up? Are you planning pregnancy in the near future?
+
+**Current medication review.** GLP-1 drugs interact with some medications — particularly insulin and sulfonylureas (hypoglycemia risk). Your physician evaluates these interactions.
+
+This is not a checklist exercise. It is clinical judgment applied to your individual circumstances. Two people with identical BMIs may receive different recommendations based on everything above.
+
+## Who Should NOT Take Retatrutide
+
+These are firm contraindications — conditions that disqualify a person from GLP-1 treatment.
+
+**Personal or family history of medullary thyroid carcinoma (MTC).** The most critical exclusion. All GLP-1 class drugs carry a boxed warning based on thyroid C-cell tumors in animal studies.
+
+**Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).**
+
+**Pregnancy, planned pregnancy, or breastfeeding.** GLP-1 drugs are not studied in pregnant populations.
+
+**Type 1 diabetes.** GLP-1 drugs are not appropriate for type 1 diabetes management.
+
+**Known hypersensitivity** to the compound or its components.
+
+**History of severe acute pancreatitis.** Physicians exercise significant caution here.
+
+Additional caution applies for patients with gastroparesis, significant kidney impairment, or active gallbladder disease.
+
+For the full safety data including the dysesthesia signal, see [retatrutide safety and side effects](/learn/is-retatrutide-safe).
+
+## The Self-Qualification Trap
+
+Reading eligibility criteria online — including in this article — can create false certainty in either direction. People with BMI 28 may assume they do not qualify when a physician would consider them eligible given their comorbidities. People with BMI 35 may assume they are automatic candidates when a thyroid history disqualifies them.
+
+Self-qualification from an article is not a medical evaluation. The information here helps you understand the general framework. A physician determines whether that framework applies to you specifically.
+
+## What If You Qualify but Retatrutide Is Not Available?
+
+If you meet the eligibility criteria for retatrutide, you almost certainly meet the criteria for tirzepatide — the thresholds overlap significantly. Starting treatment now means building the medical history, treatment response data, and physician relationship that will directly inform whether transitioning to retatrutide is appropriate when it eventually becomes available.
+
+For a comparison of expected results, see [retatrutide weight loss data by dose and trial](/learn/retatrutide-weight-loss-results).
+
+For the practical dosing protocol, see [how retatrutide dose escalation works](/learn/retatrutide-dose-escalation-schedule).`
+  },
+  {
+    slug: 'retatrutide-vs-ozempic',
+    title: 'Retatrutide vs Ozempic (Semaglutide): Triple Agonist vs Single Agonist Compared',
+    seoTitle: 'Retatrutide vs Ozempic (Semaglutide): Triple Agonist vs Single Agonist Compared',
+    metaDescription: 'How retatrutide compares to semaglutide/Ozempic — three receptors vs one, weight loss data, side effect differences, and what the gap means for your decision.',
+    category: 'Comparisons',
+    readingTime: '7 min read',
+    publishedDate: '2026-03-26',
+    reviewedBy: 'Dr. [Physician Name]',
+    reviewedByTitle: 'Medical Director, Kora Health · PRC License #[000000]',
+    excerpt: 'How retatrutide compares to Ozempic/semaglutide — triple agonist vs single agonist mechanism, weight loss data, side effects, and availability.',
+    relatedSlugs: ['retatrutide-weight-loss-results', 'retatrutide-eligibility-bmi-screening', 'retatrutide-dose-escalation-schedule'],
+    content: `Ozempic is the GLP-1 medication most Filipinos have heard of. It started the entire weight loss injection conversation. Semaglutide — the molecule behind both Ozempic (for diabetes) and Wegovy (for weight management) — remains the most recognized option in the Philippine market.
+
+Retatrutide is the next evolutionary step: three receptor pathways instead of one, with clinical results that show a substantial performance gap. Here is what the comparison looks like when you move past the brand names and examine the mechanism, data, and practical implications.
+
+## Three Receptors vs One
+
+**Semaglutide** is a single GLP-1 receptor agonist. One metabolic pathway — appetite suppression, slower gastric emptying, improved insulin secretion. Effective. Well-studied. But limited to a single lever.
+
+**Retatrutide** activates GLP-1, GIP, and glucagon receptors simultaneously. Everything semaglutide does, plus GIP (enhanced insulin sensitivity, improved fat metabolism) and glucagon (increased resting energy expenditure, accelerated liver fat clearance).
+
+The mechanism gap here is larger than between retatrutide and tirzepatide. Tirzepatide already uses two of the three pathways. Semaglutide uses one.
+
+For the tirzepatide-specific comparison, see [retatrutide vs tirzepatide](/learn/retatrutide-vs-tirzepatide).
+
+## The Weight Loss Gap
+
+**Semaglutide (STEP-1, 2021):** 14.9% average body weight loss at 68 weeks, at the 2.4mg dose, in adults with obesity without diabetes.
+
+**Semaglutide in head-to-head (SURMOUNT-5, 2025):** 13.7% at 72 weeks — when directly compared to tirzepatide in the same trial.
+
+**Retatrutide (Phase 2, NEJM 2023):** 24.2% at 48 weeks, at the 12mg dose.
+
+**Retatrutide (TRIUMPH-4, December 2025):** 28.7% at 68 weeks, at the 12mg dose.
+
+The gap is approximately 14 percentage points. For someone weighing 100kg, that is the difference between losing ~14kg on semaglutide and ~28kg on retatrutide over a similar timeframe.
+
+Cross-trial comparisons carry limitations — different populations, designs, and timepoints. But the magnitude is consistent and likely reflects a genuine pharmacological advantage.
+
+For the detailed breakdown of retatrutide results by dose, see [retatrutide weight loss numbers by trial](/learn/retatrutide-weight-loss-results).
+
+## Side Effect Comparison
+
+Both share the GLP-1 class gastrointestinal profile. The rates are more similar than you might expect.
+
+**Nausea:** Retatrutide TRIUMPH-4: ~43%. Semaglutide STEP-1: ~44%. Comparable — suggesting GI tolerability is driven primarily by GLP-1 activation, which both drugs share.
+
+**Diarrhea:** Retatrutide: ~33%. Semaglutide: ~30%. Similar.
+
+**Vomiting:** Retatrutide: ~21%. Semaglutide: ~25%. Similar.
+
+The key distinguishing factor is **dysesthesia** — skin tingling/sensitivity reported in ~21% of retatrutide participants at the highest dose. Not observed with semaglutide. Likely related to the glucagon receptor pathway unique to retatrutide. Generally mild, but a genuinely new consideration.
+
+The other notable difference: some TRIUMPH-4 participants discontinued due to "perceived excessive weight loss." This was not reported in semaglutide trials — consistent with the much larger magnitude of weight loss.
+
+## Availability in the Philippines
+
+**Semaglutide** has the broadest access of any GLP-1 medication in the Philippine market. Branded Ozempic is stocked at many pharmacies. Compounded semaglutide is widely available through telehealth providers at lower price points.
+
+**Retatrutide** is not available through any legitimate channel. Phase 3 trials are ongoing. Approval is projected for 2027–2028. Products marketed as retatrutide from peptide vendors or social media are unverified.
+
+**Tirzepatide** sits between them — more effective than semaglutide (20.2% vs 13.7% in head-to-head), available in the Philippines, and the strongest approved option today.
+
+## What This Comparison Means Practically
+
+If you are choosing between medications you can access today, the relevant comparison is semaglutide vs tirzepatide. Tirzepatide outperforms semaglutide in head-to-head data and is available through physician-led platforms.
+
+Retatrutide represents the future frontier. The data is compelling. But it does not factor into a treatment decision you can make today.
+
+To understand whether you meet the eligibility criteria for GLP-1 treatment, see [who qualifies for retatrutide](/learn/retatrutide-eligibility-bmi-screening).`
+  },
+  {
+    slug: 'retatrutide-dose-escalation-schedule',
+    title: 'Retatrutide Dose Escalation: How the Injection Schedule Works in Clinical Trials',
+    seoTitle: 'Retatrutide Dose Escalation: How the Injection Schedule Works in Clinical Trials',
+    metaDescription: 'Retatrutide dosing protocol from Phase 2 and Phase 3 trials — starting dose, escalation steps, maintenance dose, injection frequency, and why gradual titration matters.',
+    category: 'Medication Safety',
+    readingTime: '7 min read',
+    publishedDate: '2026-03-26',
+    reviewedBy: 'Dr. [Physician Name]',
+    reviewedByTitle: 'Medical Director, Kora Health · PRC License #[000000]',
+    excerpt: 'How retatrutide dosing works — injection frequency, dose escalation steps from clinical trials, maintenance dosing, and why gradual titration matters for tolerability.',
+    relatedSlugs: ['retatrutide-what-to-expect-week-by-week', 'retatrutide-weight-loss-results', 'retatrutide-eligibility-bmi-screening'],
+    content: `How is retatrutide actually taken? How often? What dose do you start with? How quickly does it increase? When do you reach the full therapeutic dose? And why does the escalation schedule matter so much for tolerability?
+
+These are practical questions from someone seriously evaluating this treatment. The clinical trial protocols provide clear, specific answers.
+
+## Injection Basics
+
+Retatrutide is a once-weekly subcutaneous injection — the same frequency as tirzepatide and semaglutide. Trial participants self-administered at home, injecting into the abdomen, thigh, or upper arm and rotating sites weekly.
+
+The once-weekly schedule is part of what makes modern GLP-1 treatment practical. No daily injections. No clinic visits for administration. No infusions.
+
+## The Dose Escalation Protocol
+
+Retatrutide is never started at the full therapeutic dose. Every clinical trial used a structured step-up schedule designed to minimize gastrointestinal side effects.
+
+**TRIUMPH-4 escalation to 12mg target:** Weeks 1–4: 2mg weekly (starting dose). Weeks 5–8: 4mg weekly (first escalation). Weeks 9–12: 6mg weekly (intermediate step). Weeks 13–16: 9mg weekly (near-therapeutic). Week 17 onward: 12mg weekly (full maintenance).
+
+**For the 9mg target:** Same escalation through 2mg → 4mg → 6mg → 9mg, reaching target by approximately week 13.
+
+Each step lasts 4 weeks — enough time for the digestive system to adapt before the next increase. It takes approximately 16 weeks to reach the highest dose. This is not wasted time. The 2mg and 4mg doses are already producing appetite suppression and early weight loss. The escalation builds on a foundation, not waiting for results to start.
+
+## Why the Gradual Approach Matters
+
+The dose escalation protocol is not a regulatory formality. It directly determines whether a patient tolerates the treatment or quits.
+
+GLP-1 class medications slow gastric emptying and fundamentally change how the digestive system processes food. Starting at the full dose overwhelms the system — producing severe nausea, vomiting, and GI distress.
+
+Starting low and building gradually allows incremental adaptation. In TRIUMPH-4, nausea affected 43% of participants at the highest dose — but most cases were mild to moderate and concentrated during escalation weeks, not during maintenance.
+
+This is the strongest practical argument for physician oversight. A doctor monitoring your response has the flexibility to extend any dose step — spending 6–8 weeks at 4mg instead of 4, for example — before moving to the next level. Self-dosing eliminates this flexibility.
+
+For a complete walk-through of the treatment timeline, see [what to expect week by week on retatrutide](/learn/retatrutide-what-to-expect-week-by-week).
+
+## Maintenance Dosing: A Lower Dose for Long-Term Use?
+
+The TRIUMPH program is testing a 4mg maintenance dose — intended for patients who have achieved their weight loss goals and want to sustain results at a lower dose with potentially fewer side effects and lower cost.
+
+This reflects a clinical principle: the dose needed to lose weight may be higher than the dose needed to keep it off. If the 4mg maintenance data is positive (results expected 2026), it could mean patients eventually step down — reducing both side effect exposure and ongoing cost.
+
+TRIUMPH-1 and TRIUMPH-2 both include maintenance dosing arms.
+
+## How This Compares to Tirzepatide Dosing
+
+Tirzepatide follows the same philosophy: once-weekly injection, gradual escalation, 4-week steps.
+
+**Tirzepatide escalation:** 2.5mg → 5mg → 7.5mg → 10mg → 12.5mg → 15mg. Each step lasts 4 weeks. Total time to maximum dose: approximately 20 weeks.
+
+The experience — weekly injection, gradual appetite change, GI adjustment during dose steps, progressive weight loss — transfers directly. Patients who go through tirzepatide's escalation now will already understand the process if they transition to retatrutide later.
+
+For a comparison of expected results, see [retatrutide weight loss data](/learn/retatrutide-weight-loss-results).
+
+To determine whether your profile is suited for GLP-1 treatment, see [who qualifies for retatrutide](/learn/retatrutide-eligibility-bmi-screening).
+
+## The Crucial Caveat
+
+Everything described here comes from clinical trial protocols. No official retatrutide prescribing label exists because the drug is not approved. Any "dosing guide" online that frames this as prescribing advice is premature.
+
+When retatrutide receives approval, the official recommendations will be set by the FDA based on the complete Phase 3 dataset. The escalation schedule, target doses, and maintenance protocols may differ from what was tested.
+
+Until then, tirzepatide has established, physician-guided dosing protocols that Kora Health physicians follow precisely.`
+  },
+  {
     slug: 'retatrutide-philippines',
     title: 'Retatrutide in the Philippines: What It Is, How It Works, and What to Know',
     seoTitle: 'Retatrutide in the Philippines: What It Is, How It Works, and What to Know',
@@ -698,7 +1066,7 @@ For the full picture — what tirzepatide costs, how it works, and who it is app
     reviewedBy: 'Dr. [Physician Name]',
     reviewedByTitle: 'Medical Director, Kora Health · PRC License #[000000]',
     excerpt:
-      'An evidence-based comparison of tirzepatide and semaglutide — weight loss data, side effects, cost in the Philippines, and how to decide with your physician.',
+      'An evidence-based comparison of tirzepatide and semaglutide ��� weight loss data, side effects, cost in the Philippines, and how to decide with your physician.',
     relatedSlugs: [
       'tirzepatide-philippines',
       'tirzepatide-side-effects',

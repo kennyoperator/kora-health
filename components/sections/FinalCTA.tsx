@@ -27,13 +27,13 @@ export default function FinalCTA() {
                   color: 'var(--kora-text-primary)',
                 }}
               >
-                Your Free Consultation Is Waiting
+                Find Out If Retatrutide Is Right for You
               </h2>
               <p
                 className="text-lg mt-4 leading-relaxed"
                 style={{ color: 'var(--kora-text-body)' }}
               >
-                Book a free consultation with a licensed physician. No cost, no pressure, no obligation.
+                Book a free consultation with a licensed physician. Discuss your health profile, understand the treatment, and get a personalized recommendation — no cost, no obligation.
               </p>
               <div className="mt-6">
                 <CTAButton variant="primary" size="lg" onClick={scrollToForm}>

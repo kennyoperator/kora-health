@@ -4,10 +4,11 @@ import MobileStickyBar from '@/components/layout/MobileStickyBar'
 import Hero from '@/components/sections/Hero'
 import TrustBar from '@/components/sections/TrustBar'
 import HowItWorks from '@/components/sections/HowItWorks'
+import WhatIsRetatrutide from '@/components/sections/WhatIsRetatrutide'
 import WhyKora from '@/components/sections/WhyKora'
 import ResultsSection from '@/components/sections/ResultsSection'
 import TeamSection from '@/components/sections/TeamSection'
-import ProgramOverview from '@/components/sections/ProgramOverview'
+import ProgramOverviewSection from '@/components/sections/ProgramOverview'
 import ExpectationTimeline from '@/components/sections/ExpectationTimeline'
 import QualificationSection from '@/components/sections/QualificationSection'
 import FAQSection from '@/components/sections/FAQSection'
@@ -19,11 +20,12 @@ export default function HomePage() {
       <Header />
       <Hero />
       <TrustBar />
+      <WhatIsRetatrutide />
       <HowItWorks />
       <WhyKora />
       <ResultsSection />
       <TeamSection />
-      <ProgramOverview />
+      <ProgramOverviewSection />
       <ExpectationTimeline />
       <QualificationSection />
       <FAQSection />

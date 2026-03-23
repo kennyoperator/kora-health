@@ -22,7 +22,7 @@ const steps = [
     number: 3,
     icon: Package,
     title: 'Treatment Delivered',
-    description: 'Medication compounded in an FDA-regulated pharmacy, shipped cold-chain.',
+    description: 'Your retatrutide treatment is compounded in an FDA-regulated pharmacy and delivered in temperature-controlled packaging.',
   },
   {
     number: 4,
@@ -137,7 +137,7 @@ export default function HowItWorks() {
                     )}
                     {step.number === 3 && (
                       <div className="mt-4">
-                        <Image src="/img-coldchain.png" alt="Kora Health tirzepatide in cold-chain packaging" width={180} height={180} className="rounded-xl mx-auto" style={{ boxShadow: '0 4px 16px rgba(0,0,0,0.08)' }} />
+                        <Image src="/coldchain-reta.png" alt="Kora Health retatrutide in cold-chain packaging" width={180} height={180} className="rounded-xl mx-auto" style={{ boxShadow: '0 4px 16px rgba(0,0,0,0.08)' }} />
                       </div>
                     )}
                   </div>

@@ -6,19 +6,19 @@ import CTAButton from '@/components/ui/CTAButton'
 
 const stats = [
   {
-    stat: '20.2%',
-    label: 'Average body weight reduction with tirzepatide in a 72-week head-to-head trial vs semaglutide',
-    source: 'SURMOUNT-5, NEJM 2025',
+    stat: '28.7%',
+    label: 'Average body weight lost at the highest dose in the TRIUMPH-4 Phase 3 trial over 68 weeks.',
+    source: 'TRIUMPH-4, Eli Lilly, December 2025',
   },
   {
-    stat: '82%',
-    label: 'Of patients on tirzepatide achieved at least 10% body weight loss',
-    source: 'SURMOUNT-5, NEJM 2025',
+    stat: '85.9%',
+    label: 'Of participants on the highest dose achieved at least 10% body weight loss.',
+    source: 'TRIUMPH-4 Phase 3 data',
   },
   {
-    stat: '48%',
-    label: 'Of patients achieved at least 20% body weight loss — nearly 1 in 2',
-    source: 'SURMOUNT-5, NEJM 2025',
+    stat: 'Triple Action',
+    label: 'Retatrutide activates GLP-1, GIP, and glucagon receptors — more pathways than any other weight management medication.',
+    source: '',
   },
 ]
 
@@ -48,7 +48,7 @@ export default function ResultsSection() {
             className="text-center max-w-2xl mx-auto mt-4 leading-relaxed"
             style={{ color: 'var(--kora-text-body)' }}
           >
-            Tirzepatide has been studied in the largest weight management clinical trials ever conducted. Here&apos;s what they found.
+            Retatrutide is a GLP-1/GIP/glucagon triple receptor agonist studied in the TRIUMPH clinical trial program by Eli Lilly. The Kora program is designed for adults with a BMI of 27 or higher who are ready for physician-supervised metabolic health treatment.
           </p>
         </ScrollReveal>
 
@@ -78,12 +78,14 @@ export default function ResultsSection() {
                 >
                   {item.label}
                 </p>
-                <p
-                  className="text-xs mt-3"
-                  style={{ color: 'var(--kora-text-muted)' }}
-                >
-                  {item.source}
-                </p>
+                {item.source && (
+                  <p
+                    className="text-xs mt-3"
+                    style={{ color: 'var(--kora-text-muted)' }}
+                  >
+                    {item.source}
+                  </p>
+                )}
               </div>
             </ScrollReveal>
           ))}
@@ -106,7 +108,7 @@ export default function ResultsSection() {
             />
             <div className="p-5 text-center" style={{ backgroundColor: 'var(--kora-surface)' }}>
               <p className="text-sm font-medium" style={{ color: 'var(--kora-text-primary)' }}>
-                Real physicians. Real consultations. From your home.
+                Every Kora patient is evaluated by a licensed physician
               </p>
               <p className="text-xs mt-1" style={{ color: 'var(--kora-text-muted)' }}>
                 Every treatment plan is personalized by a licensed doctor based on your health profile
@@ -117,7 +119,7 @@ export default function ResultsSection() {
             className="text-sm font-normal text-center mt-8 max-w-xl mx-auto"
             style={{ color: 'var(--kora-text-muted)' }}
           >
-            Real Kora Health patient results will be published here as our program grows. These figures are from published peer-reviewed clinical trials.
+            Individual results vary. All treatments require physician evaluation and prescription. Kora Health does not guarantee specific outcomes. Clinical data from published Phase 3 trial results.
           </p>
           <div className="flex justify-center mt-6">
             <CTAButton variant="primary" onClick={scrollToForm}>

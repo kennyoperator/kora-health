@@ -26,7 +26,7 @@ export default function Hero() {
               padding: '6px 16px',
             }}
           >
-            Physician-Led &nbsp;·&nbsp; FDA-Regulated &nbsp;·&nbsp; Philippines
+            Triple-Agonist Treatment &nbsp;·&nbsp; Physician-Led &nbsp;·&nbsp; Philippines
           </div>
 
           {/* Headline */}
@@ -40,7 +40,7 @@ export default function Hero() {
               color: 'var(--kora-text-primary)',
             }}
           >
-            Lose Weight With Real Medical Treatment. Prescribed by Licensed Doctors. Delivered to Your Door.
+            Retatrutide Treatment in the Philippines. Physician-Prescribed. Triple-Agonist. Delivered to Your Door.
           </h1>
 
           {/* Subheadline */}
@@ -51,7 +51,7 @@ export default function Hero() {
               color: 'var(--kora-text-body)',
             }}
           >
-            Kora Health is the Philippines&apos; physician-led weight management platform. Free consultation, personalized prescription, ongoing medical support — all online.
+            The most advanced GLP-1 treatment available — activating three metabolic pathways for greater appetite control, energy expenditure, and weight loss. Free physician consultation. Personalized prescribing. Ongoing medical support.
           </p>
 
           {/* Primary CTA */}

@@ -1,4 +1,6 @@
-// Kora Health — ProgramOverview v4
+// Kora Health — ProgramOverview v5
+'use client'
+
 import {
   MessageSquare,
   ClipboardCheck,
@@ -23,7 +25,7 @@ const cards = [
   { icon: RefreshCcw, label: 'Monthly Follow-Up & Dose Adjustment' },
 ]
 
-export default function ProgramOverview() {
+export default function ProgramOverviewSection() {
   return (
     <section
       id="program"
@@ -40,7 +42,7 @@ export default function ProgramOverview() {
               color: 'var(--kora-text-primary)',
             }}
           >
-            The Kora Weight Management Program
+            The Kora Retatrutide Program
           </h2>
           <p
             className="text-center max-w-xl mx-auto mt-4 leading-relaxed"
@@ -96,8 +98,8 @@ export default function ProgramOverview() {
               }}
             >
               <Image
-                src="/kit.png"
-                alt="Kora Health Tirzepatide treatment kit — vial, insulin syringe, alcohol pads, and cold-chain packaging"
+                src="/kit-reta.png"
+                alt="Kora Health Retatrutide treatment kit — vial, insulin syringe, alcohol pads, and cold-chain packaging"
                 width={800}
                 height={800}
                 className="w-full h-auto"
@@ -108,7 +110,7 @@ export default function ProgramOverview() {
                   Your Kora Treatment Kit
                 </h3>
                 <p className="text-sm mt-2 leading-relaxed" style={{ color: 'var(--kora-text-body)' }}>
-                  Physician-prescribed tirzepatide, injection supplies, alcohol pads, and cold-chain packaging — compounded in an FDA-regulated Philippine pharmacy and delivered to your door.
+                  Physician-prescribed retatrutide, injection supplies, alcohol pads, and cold-chain packaging — compounded in an FDA-regulated Philippine pharmacy and delivered to your door.
                 </p>
               </div>
             </div>

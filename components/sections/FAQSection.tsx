@@ -10,40 +10,44 @@ import ScrollReveal from '@/components/ui/ScrollReveal'
 
 const faqs = [
   {
-    q: 'Is Kora Health a real, registered medical provider?',
-    a: 'Yes. Kora Health is a registered Philippine business operating as a telehealth platform. All treatments are prescribed by Philippine-licensed physicians and compounded in FDA-regulated pharmacies. Our business registration details are displayed on this website.',
+    q: 'What is retatrutide and how does it work?',
+    a: 'Retatrutide is a triple-agonist injectable that activates GLP-1, GIP, and glucagon receptors simultaneously. It reduces appetite, improves blood sugar control, increases resting energy expenditure, and supports significant weight loss. In Phase 3 trials, participants lost an average of 28.7% of their body weight.',
   },
   {
-    q: 'How much does the program cost?',
-    a: 'Costs depend on your prescribed dose and treatment plan. Your consultation includes completely transparent pricing with no hidden fees. We do not charge for consultations, and there are no lock-ins or subscription requirements.',
+    q: 'Is Kora Health a legitimate medical provider?',
+    a: 'Yes. Kora Health is a registered Philippine business operating as a telehealth platform. All treatments are prescribed by Philippine-licensed physicians and compounded in FDA-regulated pharmacies. Our business registration details are displayed on this site.',
   },
   {
-    q: 'How is this different from buying from social media sellers?',
-    a: 'Most online sellers operate without medical oversight, sell unverified products, and provide no follow-up care. Kora Health requires a physician consultation before any prescription is issued, sources exclusively from regulated pharmacies, and provides ongoing medical monitoring throughout your program.',
+    q: 'How much does the retatrutide program cost?',
+    a: 'Costs depend on your prescribed dose and treatment plan. Your free consultation includes completely transparent pricing. No hidden fees, no lock-ins, no subscriptions.',
   },
   {
-    q: 'What is tirzepatide?',
-    a: 'Tirzepatide is a GLP-1/GIP receptor agonist — a class of medication that reduces appetite, improves blood sugar control, and supports significant weight loss. It is approved by both the US FDA and the Philippine FDA. It is administered as a once-weekly self-injection.',
+    q: 'Is retatrutide safe?',
+    a: 'Retatrutide has been studied in large clinical trials involving hundreds of participants. Common side effects include nausea, diarrhea, and constipation — primarily during dose escalation. A unique side effect called dysesthesia (skin tingling) was observed in approximately 21% of participants at the highest dose, though it was generally mild. Your physician will evaluate your full health history and monitor you throughout treatment.',
   },
   {
-    q: 'Is this treatment safe?',
-    a: 'Tirzepatide has been studied in large clinical trials involving thousands of participants. Like all medications, it has potential side effects — most commonly nausea, which typically improves as your body adjusts. Your Kora physician will evaluate your health history, monitor your progress, and adjust treatment as needed.',
+    q: 'How is this different from buying peptides online?',
+    a: 'Most online sellers operate without medical oversight, sell unverified products, and provide no follow-up care. Kora Health requires a physician consultation before any prescription, sources from regulated pharmacies, and provides structured ongoing medical monitoring.',
   },
   {
     q: 'How is medication delivered?',
-    a: 'All medications are shipped in temperature-controlled packaging from an FDA-regulated pharmacy to your doorstep using cold-chain logistics.',
+    a: 'All medications are shipped in temperature-controlled packaging using cold-chain logistics from pharmacy to your doorstep.',
   },
   {
     q: 'Do I need to inject myself?',
-    a: 'Yes, tirzepatide is a once-weekly self-injection. We provide detailed video guidance and your care team can walk you through it live. Most patients find it straightforward after the first time.',
+    a: 'Yes, retatrutide is a once-weekly self-injection. We provide detailed video guidance and your care team can walk you through it live. Most patients find it straightforward after the first time.',
   },
   {
-    q: 'What happens after I submit my information?',
-    a: 'Our care team reviews your details within 24 hours, then contacts you via your preferred channel to schedule your physician consultation. The consultation takes about 15 minutes, is completely free, and carries no obligation.',
+    q: 'Where in the Philippines can I access Kora Health?',
+    a: 'Kora Health is available nationwide through telehealth. We serve patients across Metro Manila — Makati, BGC, Quezon City — as well as Cebu, Davao, and throughout the Philippines. Medication is delivered to your door regardless of location.',
+  },
+  {
+    q: 'How does retatrutide compare to Ozempic or Mounjaro?',
+    a: 'Retatrutide targets three receptors (GLP-1, GIP, and glucagon) compared to one for semaglutide (Ozempic) and two for tirzepatide (Mounjaro). Clinical trials show approximately 28.7% weight loss with retatrutide versus 20.2% for tirzepatide and 14.9% for semaglutide. Cross-trial comparisons have limitations, but the magnitude of difference is consistent.',
   },
   {
     q: 'Why should I trust a new brand?',
-    a: "We understand the skepticism — and it's justified. That's exactly why we show our founders' real names and faces, our physician credentials and license numbers, our pharmacy sourcing, and our business registration. We're building Kora Health as a long-term medical platform, not a pop-up operation.",
+    a: 'We display our founders\' real names and faces, our physician credentials and license numbers, our pharmacy sourcing, and our business registration. Kora Health is built as a long-term physician-led medical platform, not a pop-up operation.',
   },
 ]
 
