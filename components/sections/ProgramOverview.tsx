@@ -81,61 +81,41 @@ export default function ProgramOverview() {
             </ol>
           </ScrollReveal>
 
-          {/* Kit images */}
-          <div className="space-y-6">
-            <ScrollReveal delay={100}>
+          {/* Kit image */}
+          <ScrollReveal delay={100}>
+            <div
+              className="rounded-2xl overflow-hidden"
+              style={{
+                border: '1px solid var(--kora-border-light)',
+                boxShadow: '0 8px 32px rgba(0,0,0,0.06)',
+              }}
+            >
+              <Image
+                src="/kit-reta.png"
+                alt="Complete Kora Health Retatrutide kit contents"
+                width={560}
+                height={560}
+                className="w-full h-auto"
+              />
               <div
-                className="rounded-2xl overflow-hidden"
-                style={{
-                  border: '1px solid var(--kora-border-light)',
-                  boxShadow: '0 8px 32px rgba(0,0,0,0.06)',
-                }}
+                className="p-5 text-center"
+                style={{ backgroundColor: 'var(--kora-surface)' }}
               >
-                <Image
-                  src="/img-vial-person.png"
-                  alt="Patient holding Kora Health Retatrutide vial"
-                  width={560}
-                  height={560}
-                  className="w-full h-auto"
-                />
-              </div>
-            </ScrollReveal>
-
-            <ScrollReveal delay={200}>
-              <div
-                className="rounded-2xl overflow-hidden"
-                style={{
-                  border: '1px solid var(--kora-border-light)',
-                  boxShadow: '0 8px 32px rgba(0,0,0,0.06)',
-                }}
-              >
-                <Image
-                  src="/kit-reta.png"
-                  alt="Complete Kora Health Retatrutide kit contents"
-                  width={560}
-                  height={560}
-                  className="w-full h-auto"
-                />
-                <div
-                  className="p-5 text-center"
-                  style={{ backgroundColor: 'var(--kora-surface)' }}
+                <p
+                  className="text-sm font-medium"
+                  style={{ color: 'var(--kora-text-primary)' }}
                 >
-                  <p
-                    className="text-sm font-medium"
-                    style={{ color: 'var(--kora-text-primary)' }}
-                  >
-                    Everything included in your monthly kit
-                  </p>
-                  <p
-                    className="text-xs mt-1"
-                    style={{ color: 'var(--kora-text-muted)' }}
-                  >
-                    Physician-prescribed retatrutide, injection supplies, alcohol pads, and cold-chain packaging — compounded in an FDA-regulated Philippine pharmacy and delivered to your door.
-                  </p>
-                </div>
+                  Everything included in your monthly kit
+                </p>
+                <p
+                  className="text-xs mt-1"
+                  style={{ color: 'var(--kora-text-muted)' }}
+                >
+                  Physician-prescribed retatrutide, injection supplies, alcohol pads, and cold-chain packaging — compounded in an FDA-regulated Philippine pharmacy and delivered to your door.
+                </p>
               </div>
-            </ScrollReveal>
-          </div>
+            </div>
+          </ScrollReveal>
         </div>
       </div>
     </section>
