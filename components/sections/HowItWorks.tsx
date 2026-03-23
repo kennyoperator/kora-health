@@ -140,6 +140,11 @@ export default function HowItWorks() {
                         <Image src="/coldchain-reta.png" alt="Kora Health retatrutide in cold-chain packaging" width={180} height={180} className="rounded-xl mx-auto" style={{ boxShadow: '0 4px 16px rgba(0,0,0,0.08)' }} />
                       </div>
                     )}
+                    {step.number === 4 && (
+                      <div className="mt-4">
+                        <Image src="/img-ongoing-support.png" alt="Patient receiving ongoing care support via phone" width={180} height={180} className="rounded-xl mx-auto" style={{ boxShadow: '0 4px 16px rgba(0,0,0,0.08)' }} />
+                      </div>
+                    )}
                   </div>
                 </ScrollReveal>
               )
