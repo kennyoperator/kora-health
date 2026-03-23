@@ -1,3 +1,4 @@
+// Kora Health — ProgramOverview
 import {
   MessageSquare,
   ClipboardCheck,
@@ -20,14 +21,6 @@ const cards = [
   { icon: PlayCircle, label: 'Injection Onboarding' },
   { icon: CalendarClock, label: 'Weekly Check-Ins' },
   { icon: RefreshCcw, label: 'Monthly Follow-Up & Dose Adjustment' },
-]
-
-const kitItems = [
-  { icon: FlaskConical, label: 'Prescribed Medication' },
-  { icon: Syringe, label: 'Injection Supplies' },
-  { icon: Droplets, label: 'Alcohol Pads' },
-  { icon: Snowflake, label: 'Cold-Chain Packaging' },
-  { icon: BookOpen, label: 'Injection Guide' },
 ]
 
 export default function ProgramOverview() {
@@ -92,7 +85,7 @@ export default function ProgramOverview() {
           })}
         </div>
 
-        {/* Treatment Kit sub-section */}
+        {/* Treatment Kit photo */}
         <ScrollReveal delay={120}>
           <div className="mt-10 max-w-2xl mx-auto">
             <div
