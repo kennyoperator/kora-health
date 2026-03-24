@@ -132,7 +132,7 @@ export default function HowItWorks() {
                     )}
                     {step.number === 2 && (
                       <div className="mt-4">
-                        <Image src="/img-doctor.png" alt="Doctor reviewing patient information" width={180} height={180} className="rounded-xl mx-auto" style={{ boxShadow: '0 4px 16px rgba(0,0,0,0.08)' }} />
+                        <Image src="/doctor-christina.png" alt="Dr. Christina Lavilla - Kora Health physician" width={180} height={180} className="rounded-xl mx-auto object-cover" style={{ boxShadow: '0 4px 16px rgba(0,0,0,0.08)' }} />
                       </div>
                     )}
                     {step.number === 3 && (

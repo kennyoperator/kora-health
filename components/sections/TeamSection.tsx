@@ -1,18 +1,16 @@
 'use client'
 
-import { Stethoscope } from 'lucide-react'
 import Image from 'next/image'
 import ScrollReveal from '@/components/ui/ScrollReveal'
 import CTAButton from '@/components/ui/CTAButton'
 
-const people = [
+const founders = [
   {
     initial: 'K.O.',
     name: 'Kenny',
     title: 'Co-Founder',
     quote:
       '"We saw too many Filipinos risking their health with unverified sellers. Kora exists to offer a legitimate, physician-led alternative."',
-    isDoctor: false,
   },
   {
     initial: 'J',
@@ -20,15 +18,23 @@ const people = [
     title: 'Co-Founder',
     quote:
       '"Access to metabolic health treatment shouldn\'t require navigating a broken, unregulated market. We\'re building the right way."',
-    isDoctor: false,
+  },
+]
+
+const physicians = [
+  {
+    src: '/doctor-christina.png',
+    name: 'Dr. Christina Lavilla',
+    title: 'M.D. · PRC License #______',
+    quote:
+      '"Every Kora patient receives a thorough medical evaluation before any prescription. I review your full health history, screen for contraindications, and only prescribe when the treatment is genuinely appropriate for your profile."',
   },
   {
-    initial: null,
-    name: 'Dr. ____',
-    title: 'Medical Director · PRC License #[000000]',
+    src: '/doctor-johnathan.png',
+    name: 'Dr. Johnathan Hamandra',
+    title: 'M.D. · PRC License #______',
     quote:
-      '"Every Kora patient is individually evaluated. I personally oversee clinical protocols to ensure safety and appropriate prescribing."',
-    isDoctor: true,
+      '"Metabolic health treatment requires ongoing clinical oversight — not a one-time transaction. I monitor every patient through dose escalation, side effect management, and long-term progress."',
   },
 ]
 
@@ -63,55 +69,34 @@ export default function TeamSection() {
           </p>
         </ScrollReveal>
 
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mt-12">
-          {people.map((person, i) => (
+        {/* Founders */}
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-12 max-w-2xl mx-auto">
+          {founders.map((person, i) => (
             <ScrollReveal key={person.name} delay={i * 80}>
               <div className="text-center">
                 <div className="flex flex-col items-center">
-                  {person.isDoctor ? (
-                    <div className="flex flex-col items-center">
-                      <div
-                        className="rounded-full overflow-hidden"
-                        style={{
-                          width: 96,
-                          height: 96,
-                          border: '2px solid var(--kora-border)',
-                        }}
-                      >
-                        <Image
-                          src="/img-doctor.png"
-                          alt="Kora Health Medical Director"
-                          width={96}
-                          height={96}
-                          className="w-full h-full object-cover"
-                        />
-                      </div>
-                    </div>
-                  ) : (
-                    <div
-                      className="flex items-center justify-center rounded-full mx-auto font-sans font-semibold"
-                      style={{
-                        width: 96,
-                        height: 96,
-                        backgroundColor: 'var(--kora-brand-subtle)',
-                        border: '2px solid var(--kora-border)',
-                        fontSize: 32,
-                        color: 'var(--kora-brand)',
-                        lineHeight: 1,
-                      }}
-                      aria-label={`Avatar for ${person.name}`}
-                    >
-                      {person.initial}
-                    </div>
-                  )}
+                  <div
+                    className="flex items-center justify-center rounded-full mx-auto font-sans font-semibold"
+                    style={{
+                      width: 96,
+                      height: 96,
+                      backgroundColor: 'var(--kora-brand-subtle)',
+                      border: '2px solid var(--kora-border)',
+                      fontSize: 32,
+                      color: 'var(--kora-brand)',
+                      lineHeight: 1,
+                    }}
+                    aria-label={`Avatar for ${person.name}`}
+                  >
+                    {person.initial}
+                  </div>
                   <p
                     className="text-[11px] font-normal mt-1.5"
                     style={{ color: 'var(--kora-text-muted)' }}
                   >
-                    {person.isDoctor ? null : 'Photo coming soon'}
+                    Photo coming soon
                   </p>
                 </div>
-
                 <p
                   className="text-lg font-medium mt-4"
                   style={{ color: 'var(--kora-text-primary)' }}
@@ -132,15 +117,58 @@ export default function TeamSection() {
           ))}
         </div>
 
+        {/* Physicians */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12">
+          {physicians.map((doc, i) => (
+            <ScrollReveal key={doc.name} delay={160 + i * 80}>
+              <div className="text-center">
+                <div className="flex justify-center">
+                  <div
+                    className="rounded-full overflow-hidden"
+                    style={{
+                      width: 120,
+                      height: 120,
+                      border: '2px solid var(--kora-border)',
+                    }}
+                  >
+                    <Image
+                      src={doc.src}
+                      alt={doc.name}
+                      width={120}
+                      height={120}
+                      className="w-full h-full object-cover"
+                    />
+                  </div>
+                </div>
+                <p
+                  className="text-lg font-medium mt-4"
+                  style={{ color: 'var(--kora-text-primary)' }}
+                >
+                  {doc.name}
+                </p>
+                <p className="text-sm mt-0.5" style={{ color: 'var(--kora-text-muted)' }}>
+                  {doc.title}
+                </p>
+                <p
+                  className="text-sm mt-3 leading-relaxed max-w-xs mx-auto"
+                  style={{ color: 'var(--kora-text-body)' }}
+                >
+                  {doc.quote}
+                </p>
+              </div>
+            </ScrollReveal>
+          ))}
+        </div>
+
         {/* Physician accountability line */}
-        <ScrollReveal delay={220}>
-          <p className="text-sm text-center mt-4 max-w-md mx-auto" style={{ color: 'var(--kora-text-body)' }}>
-            Every Kora patient is evaluated by a named, licensed physician — not an anonymous provider. A real doctor who reviews your history, monitors your treatment, and is accountable for your care.
+        <ScrollReveal delay={320}>
+          <p className="text-sm text-center mt-8 max-w-xl mx-auto" style={{ color: 'var(--kora-text-body)' }}>
+            Every Kora patient is evaluated by a named, licensed physician — not an anonymous provider. Dr. Lavilla and Dr. Hamandra's PRC licenses are publicly verifiable.
           </p>
         </ScrollReveal>
 
         {/* Credential bar */}
-        <ScrollReveal delay={240}>
+        <ScrollReveal delay={340}>
           <div className="flex justify-center mt-10">
             <div
               className="inline-flex items-center rounded-full text-[13px] font-medium"
@@ -156,7 +184,7 @@ export default function TeamSection() {
         </ScrollReveal>
 
         {/* CTA */}
-        <ScrollReveal delay={300}>
+        <ScrollReveal delay={400}>
           <div className="flex justify-center mt-8">
             <CTAButton variant="primary" onClick={scrollToForm}>
               Book Your Free Consultation

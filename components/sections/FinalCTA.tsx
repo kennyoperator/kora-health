@@ -33,7 +33,7 @@ export default function FinalCTA() {
                 className="text-lg mt-4 leading-relaxed"
                 style={{ color: 'var(--kora-text-body)' }}
               >
-                Book a free consultation with a named, Philippine-licensed physician. Review your health profile, understand the treatment, and get a personalized recommendation — no cost, no obligation.
+                Book a free consultation with Dr. Lavilla or Dr. Hamandra. 15 minutes to review your health profile and get a straight answer on whether retatrutide is right for you. No cost. No obligation.
               </p>
               <div className="mt-6">
                 <CTAButton variant="primary" size="lg" onClick={scrollToForm}>
