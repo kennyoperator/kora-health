@@ -45,7 +45,7 @@ export default function Hero() {
 
           {/* Subheadline */}
           <p
-            className="hero-fade text-lg md:text-xl max-w-2xl mx-auto mt-6 leading-relaxed"
+            className="hero-fade text-base md:text-lg max-w-2xl mx-auto mt-6 leading-relaxed"
             style={{
               animationDelay: '200ms',
               color: 'var(--kora-text-body)',
