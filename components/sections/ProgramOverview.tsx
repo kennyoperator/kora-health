@@ -49,10 +49,27 @@ export default function ProgramOverview() {
 
         <div className="grid md:grid-cols-2 gap-10 items-start">
           {/* Steps list */}
-          <ScrollReveal>
-            <ol className="space-y-6">
-              {programSteps.map((step) => (
-                <li key={step.number} className="flex gap-4">
+          <div className="space-y-4">
+            {programSteps.map((step, i) => (
+              <ScrollReveal key={step.number} delay={i * 150}>
+                <div
+                  className="flex gap-4 rounded-xl p-4"
+                  style={{
+                    border: '1px solid var(--kora-border-light)',
+                    backgroundColor: 'var(--kora-surface)',
+                    transition: 'transform 250ms cubic-bezier(0.16, 1, 0.3, 1), box-shadow 250ms cubic-bezier(0.16, 1, 0.3, 1)',
+                  }}
+                  onMouseEnter={e => {
+                    const t = e.currentTarget as HTMLElement
+                    t.style.transform = 'translateY(-3px)'
+                    t.style.boxShadow = '0 8px 20px rgba(0,0,0,0.05)'
+                  }}
+                  onMouseLeave={e => {
+                    const t = e.currentTarget as HTMLElement
+                    t.style.transform = 'translateY(0)'
+                    t.style.boxShadow = 'none'
+                  }}
+                >
                   <span
                     className="flex-shrink-0 font-sans font-bold text-xs w-8 h-8 rounded-full flex items-center justify-center mt-0.5"
                     style={{
@@ -76,10 +93,10 @@ export default function ProgramOverview() {
                       {step.description}
                     </p>
                   </div>
-                </li>
-              ))}
-            </ol>
-          </ScrollReveal>
+                </div>
+              </ScrollReveal>
+            ))}
+          </div>
 
           {/* Kit image */}
           <ScrollReveal delay={100}>

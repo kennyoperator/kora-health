@@ -170,6 +170,17 @@ export default function WhyKora() {
               style={{
                 backgroundColor: 'var(--kora-surface-alt)',
                 border: '1px solid var(--kora-border)',
+                transition: 'transform 250ms cubic-bezier(0.16, 1, 0.3, 1), box-shadow 250ms cubic-bezier(0.16, 1, 0.3, 1)',
+              }}
+              onMouseEnter={e => {
+                const t = e.currentTarget as HTMLElement
+                t.style.transform = 'translateY(-3px)'
+                t.style.boxShadow = '0 8px 20px rgba(0,0,0,0.05)'
+              }}
+              onMouseLeave={e => {
+                const t = e.currentTarget as HTMLElement
+                t.style.transform = 'translateY(0)'
+                t.style.boxShadow = 'none'
               }}
             >
               <p
@@ -199,6 +210,17 @@ export default function WhyKora() {
                 backgroundColor: 'var(--kora-surface)',
                 border: '1.5px solid color-mix(in srgb, var(--kora-brand) 20%, transparent)',
                 boxShadow: '0 2px 8px rgba(0,0,0,0.05)',
+                transition: 'transform 250ms cubic-bezier(0.16, 1, 0.3, 1), box-shadow 250ms cubic-bezier(0.16, 1, 0.3, 1)',
+              }}
+              onMouseEnter={e => {
+                const t = e.currentTarget as HTMLElement
+                t.style.transform = 'translateY(-4px)'
+                t.style.boxShadow = '0 10px 24px rgba(27, 58, 92, 0.08)'
+              }}
+              onMouseLeave={e => {
+                const t = e.currentTarget as HTMLElement
+                t.style.transform = 'translateY(0)'
+                t.style.boxShadow = '0 2px 8px rgba(0,0,0,0.05)'
               }}
             >
               <p
