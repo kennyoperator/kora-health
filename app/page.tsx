@@ -7,6 +7,7 @@ import HowItWorks from '@/components/sections/HowItWorks'
 import WhatIsRetatrutide from '@/components/sections/WhatIsRetatrutide'
 import WhyKora from '@/components/sections/WhyKora'
 import ResultsSection from '@/components/sections/ResultsSection'
+import PatientResults from '@/components/sections/PatientResults'
 import TeamSection from '@/components/sections/TeamSection'
 import ProgramOverview from '@/components/sections/ProgramOverview'
 import ExpectationTimeline from '@/components/sections/ExpectationTimeline'
@@ -24,6 +25,7 @@ export default function HomePage() {
       <HowItWorks />
       <WhyKora />
       <ResultsSection />
+      <PatientResults />
       <TeamSection />
       <ProgramOverview />
       <ExpectationTimeline />
