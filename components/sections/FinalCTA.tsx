@@ -5,8 +5,8 @@ import ScrollReveal from '@/components/ui/ScrollReveal'
 import CTAButton from '@/components/ui/CTAButton'
 
 export default function FinalCTA() {
-  const scrollToForm = () => {
-    document.getElementById('qualify')?.scrollIntoView({ behavior: 'smooth' })
+  const scrollToProduct = () => {
+    document.getElementById('product')?.scrollIntoView({ behavior: 'smooth' })
   }
 
   return (
@@ -27,21 +27,21 @@ export default function FinalCTA() {
                   color: 'var(--kora-text-primary)',
                 }}
               >
-                Find Out If Retatrutide Is Right for You
+                Ready to Start Your Transformation?
               </h2>
               <p
                 className="text-lg mt-4 leading-relaxed"
                 style={{ color: 'var(--kora-text-body)' }}
               >
-                Book a free consultation with Dr. Lavilla or Dr. Hamandra. 15 minutes to review your health profile and get a straight answer on whether retatrutide is right for you. No cost. No obligation.
+                Choose your plan below. After checkout, complete a quick medical form. A licensed physician reviews your profile within 24 hours. Your treatment ships in 2–5 days with free nationwide delivery.
               </p>
               <div className="mt-6">
-                <CTAButton variant="primary" size="lg" onClick={scrollToForm}>
-                  Book Your Free Consultation
+                <CTAButton variant="primary" size="lg" onClick={scrollToProduct}>
+                  Shop Retatrutide
                 </CTAButton>
               </div>
               <p className="text-sm mt-4" style={{ color: 'var(--kora-text-muted)' }}>
-                Licensed physicians &nbsp;·&nbsp; FDA-regulated pharmacy &nbsp;·&nbsp; No hidden fees
+                FDA-regulated pharmacy &nbsp;·&nbsp; Third-party tested &nbsp;·&nbsp; Cold-chain delivery
               </p>
               <div className="flex items-center justify-center md:justify-start gap-2 mt-6">
                 <div className="flex -space-x-1.5">
