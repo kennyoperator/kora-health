@@ -19,7 +19,7 @@ const faqs = [
   },
   {
     q: 'Do I need a prescription?',
-    a: 'Yes. After you place your order, you'll complete a medical intake form. A licensed Philippine physician will review your profile within 24 hours. If approved, your prescription is sent to our FDA-regulated pharmacy and your order ships within 2–5 days.',
+    a: "Yes. After you place your order, you'll complete a medical intake form. A licensed Philippine physician will review your profile within 24 hours. If approved, your prescription is sent to our FDA-regulated pharmacy and your order ships within 2–5 days.",
   },
   {
     q: 'Is retatrutide safe?',
